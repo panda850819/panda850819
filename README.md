@@ -10,6 +10,8 @@
   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=E5FFCC&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dpanda850819&longCache=true"/>
 </p>
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=panda850819&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact
 
 - Email: pandap.d819@gmail.com
