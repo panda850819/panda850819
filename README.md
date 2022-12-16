@@ -11,6 +11,7 @@
 </p>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=panda850819&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://getusetprofile.vercel.app/api/top-langs/?username=panda850819&layout=compact&hide=html&theme=vue-dark)
 
 ### Contact
 
