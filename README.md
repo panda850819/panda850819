@@ -1,7 +1,6 @@
 ### Hello I am Panda from Taiwan 👋
 
 - [Founder @WalkinCat](https://linktr.ee/walkincat)
-- [COO @FDC](https://linktr.ee/fdcai)
 
 > You can see my portfolio and resume on [this](https://panda819.notion.site/Panda-s-Resume-2fc97e9df342413dab7d81ed3777debd).
 
