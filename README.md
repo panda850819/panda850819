@@ -40,6 +40,10 @@
 
 ## Connect
 
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://blog.pdzeng.com/)
+[![Micro Blog](https://img.shields.io/badge/-Micro%20Blog-4CAF50?style=flat-square&logo=micro.blog&logoColor=white)](https://daily.pdzeng.com/)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://pdzeng.substack.com/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pdzeng_talk)
 [![Twitter](https://img.shields.io/badge/-@PandaZeng1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/PandaZeng1)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/panda850819)
 
