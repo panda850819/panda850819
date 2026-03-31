@@ -31,7 +31,7 @@
 
 - **[Product Management Skill](https://github.com/panda850819/product-management-skill)** - Product Manager expert skill for Claude Code
 - **[GEO Skills](https://github.com/panda850819/geo-skills)** - GEO (Generative Engine Optimization) skill pack for Claude Code
-- **[UI/UX Pro Max Skill](https://github.com/panda850819/ui-ux-pro-max-skill)** - Design intelligence for building professional UI/UX across multiple platforms
+
 
 ## Web3
 
