@@ -33,12 +33,6 @@
 - **[GEO Skills](https://github.com/panda850819/geo-skills)** - GEO (Generative Engine Optimization) skill pack for Claude Code
 
 
-## Web3
-
-- **[2019 iT Help](https://github.com/panda850819/2019-Ithelp)** - Blockchain tutorial series (30 articles)
-- **[IPFS Document ZH](https://github.com/panda850819/IPFS-Document_ZH)** - Traditional Chinese translation of IPFS documentation
-- **[Smart Collectibles Whitepaper](https://github.com/panda850819/SmartCollectibles_whitepaper_zh)** - NFT whitepaper translation
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/panda850819)
@@ -46,7 +40,7 @@
 ## What I'm Doing
 
 - **AI-native development** - Building tools and workflows with Claude Code, pushing the limits of agentic engineering
-- **Web3 exploration** - Blockchain research and open-source translations
+
 - **Open-source CLI tools** - Making terminal-first tools for productivity
 
 ## Connect
