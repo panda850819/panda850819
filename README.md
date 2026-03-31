@@ -1,6 +1,6 @@
 # Hi, I'm Panda Zeng
 
-**Taiwan, Taipei** | **Builder & Vibe Coder**
+**Taiwan, Taipei** | **Builder**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@
 
 - **[Murmur Voice](https://github.com/panda850819/murmur-voice)** - Privacy-first voice-to-text for macOS/Windows. Local Whisper (Metal/CUDA) or Groq cloud, with LLM post-processing. Built with Rust + Tauri 2.
 - **[pstack](https://github.com/panda850819/pstack)** - Agent-driven development with a learning loop. Few opinionated agents + thin skills + confidence-decaying learnings.
-- **[Portfolio Tracker](https://github.com/panda850819/portfolio-tracker)** - Investment portfolio tracking system with Next.js + Google Apps Script
+
 
 ## CLI Tools
 
