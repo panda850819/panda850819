@@ -4,6 +4,7 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
@@ -15,12 +16,22 @@
 ## Current Projects
 
 - **[Murmur Voice](https://github.com/panda850819/murmur-voice)** - Privacy-first voice-to-text for macOS/Windows. Local Whisper (Metal/CUDA) or Groq cloud, with LLM post-processing. Built with Rust + Tauri 2.
+- **[pstack](https://github.com/panda850819/pstack)** - Agent-driven development with a learning loop. Few opinionated agents + thin skills + confidence-decaying learnings.
+- **[Portfolio Tracker](https://github.com/panda850819/portfolio-tracker)** - Investment portfolio tracking system with Next.js + Google Apps Script
+
+## CLI Tools
+
 - **[Slack CLI](https://github.com/panda850819/slack-cli)** - CLI tool for searching and browsing Slack workspaces
 - **[Notion CLI](https://github.com/panda850819/notion-cli)** - Manage Notion workspace from your terminal - search, query databases, and manage tasks
-- **[Skill Evolution](https://github.com/panda850819/skill-evolution)** - Let my Claude Code skills evolve by themselves
+- **[Telegram CLI](https://github.com/panda850819/telegram-cli)** - Headless Telegram CLI via tdlib - designed for AI agents and automation
+- **[gogcli](https://github.com/panda850819/gogcli)** - Google Suite CLI: Gmail, GCal, GDrive, GContacts
+- **[Ashby CLI](https://github.com/panda850819/ashby-cli)** - Ashby CLI tool built with Go
+
+## Claude Code Skills
+
 - **[Product Management Skill](https://github.com/panda850819/product-management-skill)** - Product Manager expert skill for Claude Code
-- **[AI Dev Setup](https://github.com/panda850819/ai-dev-setup)** - Portable Claude Code skills across devices
-- **[Portfolio Tracker](https://github.com/panda850819/portfolio-tracker)** - Investment portfolio tracking system with Next.js + Google Apps Script
+- **[GEO Skills](https://github.com/panda850819/geo-skills)** - GEO (Generative Engine Optimization) skill pack for Claude Code
+- **[UI/UX Pro Max Skill](https://github.com/panda850819/ui-ux-pro-max-skill)** - Design intelligence for building professional UI/UX across multiple platforms
 
 ## Web3
 
