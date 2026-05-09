@@ -16,7 +16,6 @@
 ## Current Projects
 
 - **[Murmur Voice](https://github.com/panda850819/murmur-voice)** - Privacy-first voice-to-text for macOS/Windows. Local Whisper (Metal/CUDA) or Groq cloud, with LLM post-processing. Built with Rust + Tauri 2.
-- **[pstack](https://github.com/panda850819/pstack)** - Agent-driven development with a learning loop. Few opinionated agents + thin skills + confidence-decaying learnings.
 
 
 ## CLI Tools
@@ -29,6 +28,7 @@
 
 ## Claude Code Skills
 
+- **[pandastack](https://github.com/panda850819/pandastack)** - Personal stack content (skills, agents, personal contexts) for the pdctx agent framework. Renamed from pstack.
 - **[Product Management Skill](https://github.com/panda850819/product-management-skill)** - Product Manager expert skill for Claude Code
 - **[GEO Skills](https://github.com/panda850819/geo-skills)** - GEO (Generative Engine Optimization) skill pack for Claude Code
 
