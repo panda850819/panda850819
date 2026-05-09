@@ -33,6 +33,21 @@
 - **[GEO Skills](https://github.com/panda850819/geo-skills)** - GEO (Generative Engine Optimization) skill pack for Claude Code
 
 
+## Latest Writing
+
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
+
+## Recently Active Repos
+
+<!-- RECENT-REPOS:START -->
+<!-- RECENT-REPOS:END -->
+
+## Recent Pull Requests
+
+<!-- RECENT-PRS:START -->
+<!-- RECENT-PRS:END -->
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/panda850819)
