@@ -35,8 +35,7 @@
 
 ## Latest Writing
 
-<!-- BLOG-POSTS:START -->
-<!-- BLOG-POSTS:END -->
+<!-- BLOG-POSTS:START -->- [addyosmani/agent-skills🔗](https://daily.pdzeng.com/posts/3924) <sub>2026-53-09</sub>- [讓子彈飛一會，不用每件事都即時回應](https://daily.pdzeng.com/posts/3923) <sub>2026-50-09</sub>- [chengwesley/taiwan-stock-analysis🔗](https://daily.pdzeng.com/posts/3922) <sub>2026-44-09</sub>- [研究的過程發個 PR 了想說 mcp 怎麼只能支援 coding agent 現在 chatgpt / claude 手機和桌面版都能用](https://daily.pdzeng.com/posts/3921) <sub>2026-56-08</sub>- [任天堂宣布 Switch 系列全线涨价](https://daily.pdzeng.com/posts/3920) <sub>2026-52-08</sub>- [[No Title] - 3919](https://daily.pdzeng.com/posts/3919) <sub>2026-51-08</sub><!-- BLOG-POSTS:END -->
 
 ## Recently Active Repos
 
