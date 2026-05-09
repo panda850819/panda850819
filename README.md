@@ -36,12 +36,10 @@
 ## Latest Writing
 
 <!-- BLOG-POSTS:START -->
-- [addyosmani/agent-skills🔗](https://daily.pdzeng.com/posts/3924) <sub>2026-05-09</sub>
-- [讓子彈飛一會，不用每件事都即時回應](https://daily.pdzeng.com/posts/3923) <sub>2026-05-09</sub>
-- [chengwesley/taiwan-stock-analysis🔗](https://daily.pdzeng.com/posts/3922) <sub>2026-05-09</sub>
-- [研究的過程發個 PR 了想說 mcp 怎麼只能支援 coding agent 現在 chatgpt / claude 手機和桌面版都能用](https://daily.pdzeng.com/posts/3921) <sub>2026-05-08</sub>
-- [任天堂宣布 Switch 系列全线涨价](https://daily.pdzeng.com/posts/3920) <sub>2026-05-08</sub>
-- [(untitled)](https://daily.pdzeng.com/posts/3919) <sub>2026-05-08</sub>
+- [我的 AI 架構真的 Harness 嗎？](https://blog.pdzeng.com/blog/harness-2026-04/) <sub>2026-05-03</sub>
+- [很忙，但好像什麼都還沒做](https://blog.pdzeng.com/blog/busy-but-nothing-done-2026-feb-mar/) <sub>2026-04-06</sub>
+- [月報 #01 - 閒不下來的一月](https://blog.pdzeng.com/blog/2026-01-monthly/) <sub>2026-01-31</sub>
+- [2025 年報 -- 決策之年](https://blog.pdzeng.com/blog/2025-year-in-review/) <sub>2025-12-31</sub>
 <!-- BLOG-POSTS:END -->
 
 ## Recently Active Repos
