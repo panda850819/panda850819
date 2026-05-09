@@ -28,7 +28,7 @@
 
 ## Claude Code Skills
 
-- **[pandastack](https://github.com/panda850819/pandastack)** - Personal stack content (skills, agents, personal contexts) for the pdctx agent framework. Renamed from pstack.
+- **[pandastack](https://github.com/panda850819/pandastack)** - Personal stack of skills, agents, and contexts for Claude Code. Renamed from pstack.
 - **[Product Management Skill](https://github.com/panda850819/product-management-skill)** - Product Manager expert skill for Claude Code
 - **[GEO Skills](https://github.com/panda850819/geo-skills)** - GEO (Generative Engine Optimization) skill pack for Claude Code
 
