@@ -15,71 +15,98 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Latest writing across blog / daily / substack (RSS)
-      - name: Pull blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://blog.pdzeng.com/rss.xml,https://daily.pdzeng.com/rss.xml,https://pdzeng.substack.com/feed"
-          max_post_count: 6
-          comment_tag_name: "BLOG-POSTS"
-          template: "- [$title]($url) <sub>$date</sub>"
-          date_format: "yyyy-MM-dd"
-          commit_message: "chore(readme): refresh latest writing"
-
-      # Recently active public repos
-      - name: Update recent repos
+      - name: Refresh dynamic sections
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
-            const { data: repos } = await github.rest.repos.listForUser({
-              username: 'panda850819',
-              sort: 'pushed',
-              per_page: 20,
-              type: 'owner',
+
+            const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
+            const USER = 'panda850819';
+
+            const stripCdata = s => s.replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, '$1').trim();
+            const decode = s => s
+              .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+              .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&apos;/g, "'");
+            const tag = (block, name) => {
+              const m = block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)</${name}>`));
+              return m ? decode(stripCdata(m[1])) : '';
+            };
+
+            // ---------- 1. Latest writing (RSS) ----------
+            const feeds = [
+              'https://blog.pdzeng.com/rss.xml',
+              'https://daily.pdzeng.com/rss.xml',
+              'https://pdzeng.substack.com/feed',
+            ];
+            const items = [];
+            for (const url of feeds) {
+              try {
+                const res = await fetch(url, {
+                  headers: { 'User-Agent': UA, 'Accept': 'application/rss+xml, application/xml, text/xml' },
+                });
+                if (!res.ok) { core.warning(`${url} → HTTP ${res.status}`); continue; }
+                const xml = await res.text();
+                for (const m of xml.matchAll(/<item\b[^>]*>([\s\S]*?)<\/item>/g)) {
+                  const b = m[1];
+                  const title = tag(b, 'title');
+                  const link = tag(b, 'link');
+                  const pub = tag(b, 'pubDate');
+                  const desc = tag(b, 'description');
+                  if (!link) continue;
+                  items.push({ title, link, desc, date: pub ? new Date(pub) : null });
+                }
+              } catch (e) { core.warning(`${url} fetch failed: ${e.message}`); }
+            }
+            items.sort((a, b) => (b.date?.getTime() ?? 0) - (a.date?.getTime() ?? 0));
+            const blogLines = items.slice(0, 6).map(p => {
+              let title = p.title;
+              if (!title) {
+                const plain = p.desc.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+                title = plain.length > 60 ? plain.slice(0, 60) + '…' : (plain || '(untitled)');
+              }
+              const date = p.date ? p.date.toISOString().slice(0, 10) : '';
+              return `- [${title}](${p.link})${date ? ` <sub>${date}</sub>` : ''}`;
             });
-            const lines = repos
-              .filter(r => !r.fork && !r.private && !r.archived)
+            const blogBody = blogLines.length ? blogLines.join('\n') : '_No recent posts._';
+
+            // ---------- 2. Recently active repos ----------
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: USER, sort: 'pushed', per_page: 30, type: 'owner',
+            });
+            const repoLines = repos
+              .filter(r => !r.fork && !r.private && !r.archived && r.name !== USER)
               .slice(0, 6)
               .map(r => {
                 const desc = r.description ? ` — ${r.description}` : '';
                 const date = new Date(r.pushed_at).toISOString().slice(0, 10);
                 return `- **[${r.name}](${r.html_url})**${desc} <sub>${date}</sub>`;
               });
-            const block = `<!-- RECENT-REPOS:START -->\n${lines.join('\n')}\n<!-- RECENT-REPOS:END -->`;
-            const readme = fs.readFileSync('README.md', 'utf8');
-            const updated = readme.replace(
-              /<!-- RECENT-REPOS:START -->[\s\S]*?<!-- RECENT-REPOS:END -->/,
-              block,
-            );
-            fs.writeFileSync('README.md', updated);
+            const repoBody = repoLines.length ? repoLines.join('\n') : '_No recent repo activity._';
 
-      # Recent public pull requests authored by you
-      - name: Update recent PRs
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require('fs');
-            const { data } = await github.rest.search.issuesAndPullRequests({
-              q: 'author:panda850819 is:pr is:public',
-              sort: 'created',
-              order: 'desc',
-              per_page: 8,
+            // ---------- 3. Recent public PRs ----------
+            const { data: prs } = await github.rest.search.issuesAndPullRequests({
+              q: `author:${USER} is:pr is:public`,
+              sort: 'created', order: 'desc', per_page: 10,
             });
-            const lines = data.items.slice(0, 6).map(p => {
+            const prLines = prs.items.slice(0, 6).map(p => {
               const repo = p.repository_url.split('/').slice(-2).join('/');
               const date = new Date(p.created_at).toISOString().slice(0, 10);
               const state = p.pull_request?.merged_at ? 'merged' : p.state;
               return `- [${p.title}](${p.html_url}) — \`${repo}\` <sub>${state} · ${date}</sub>`;
             });
-            const body = lines.length ? lines.join('\n') : '_No recent public PRs._';
-            const block = `<!-- RECENT-PRS:START -->\n${body}\n<!-- RECENT-PRS:END -->`;
-            const readme = fs.readFileSync('README.md', 'utf8');
-            const updated = readme.replace(
-              /<!-- RECENT-PRS:START -->[\s\S]*?<!-- RECENT-PRS:END -->/,
-              block,
-            );
-            fs.writeFileSync('README.md', updated);
+            const prBody = prLines.length ? prLines.join('\n') : '_No recent public PRs._';
+
+            // ---------- Patch README ----------
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const replace = (tag, body) => {
+              const re = new RegExp(`<!-- ${tag}:START -->[\\s\\S]*?<!-- ${tag}:END -->`);
+              readme = readme.replace(re, `<!-- ${tag}:START -->\n${body}\n<!-- ${tag}:END -->`);
+            };
+            replace('BLOG-POSTS', blogBody);
+            replace('RECENT-REPOS', repoBody);
+            replace('RECENT-PRS', prBody);
+            fs.writeFileSync('README.md', readme);
 
       - name: Commit changes
         run: |
@@ -89,6 +116,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore(readme): refresh repos & PRs $(date -u +%Y-%m-%d)"
+            git commit -m "chore(readme): refresh $(date -u +%Y-%m-%d)"
             git push
           fi
