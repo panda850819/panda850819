@@ -36,7 +36,6 @@ jobs:
             // ---------- 1. Latest writing (RSS) ----------
             const feeds = [
               'https://blog.pdzeng.com/rss.xml',
-              'https://daily.pdzeng.com/rss.xml',
             ];
             const items = [];
             for (const url of feeds) {
