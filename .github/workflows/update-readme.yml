@@ -37,7 +37,6 @@ jobs:
             const feeds = [
               'https://blog.pdzeng.com/rss.xml',
               'https://daily.pdzeng.com/rss.xml',
-              'https://pdzeng.substack.com/feed',
             ];
             const items = [];
             for (const url of feeds) {
