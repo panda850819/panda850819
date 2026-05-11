@@ -45,23 +45,23 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
+- **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-05-11</sub>
+- **[murmur-voice](https://github.com/panda850819/murmur-voice)** — Privacy-first voice-to-text for macOS and Windows. Local Whisper (Metal/CUDA) or Groq cloud, with LLM post-processing. Built with Rust + Tauri 2. <sub>2026-05-11</sub>
 - **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-05-09</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-07</sub>
-- **[murmur-voice](https://github.com/panda850819/murmur-voice)** — Privacy-first voice-to-text for macOS and Windows. Local Whisper (Metal/CUDA) or Groq cloud, with LLM post-processing. Built with Rust + Tauri 2. <sub>2026-05-06</sub>
 - **[blog](https://github.com/panda850819/blog)** <sub>2026-05-04</sub>
 - **[image-hosting](https://github.com/panda850819/image-hosting)** <sub>2026-05-03</sub>
-- **[pdctx](https://github.com/panda850819/pdctx)** — Personal context-aware AI operator OS — declare contexts, switch instantly, AI runtimes follow <sub>2026-05-03</sub>
 <!-- RECENT-REPOS:END -->
 
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [feat(search): --source filter on search + query ops (closes #784)](https://github.com/garrytan/gbrain/pull/838) — `garrytan/gbrain` <sub>open · 2026-05-10</sub>
+- [fix(oauth): hide secret hash for token_endpoint_auth_method=none clients](https://github.com/garrytan/gbrain/pull/837) — `garrytan/gbrain` <sub>open · 2026-05-10</sub>
 - [feat: auto-update README via GitHub Actions](https://github.com/panda850819/panda850819/pull/1) — `panda850819/panda850819` <sub>merged · 2026-05-09</sub>
 - [fix(http): bridge ChatGPT MCP connector + Claude confidential-client OAuth](https://github.com/garrytan/gbrain/pull/746) — `garrytan/gbrain` <sub>open · 2026-05-08</sub>
 - [🛡️ Sentinel: [security improvement] Secure atomic file creation for settings & remove test keys](https://github.com/panda850819/murmur-voice/pull/163) — `panda850819/murmur-voice` <sub>closed · 2026-05-05</sub>
 - [⚡ Bolt: Optimize sequential text replacement](https://github.com/panda850819/murmur-voice/pull/162) — `panda850819/murmur-voice` <sub>closed · 2026-05-05</sub>
-- [🛡️ Sentinel: [CRITICAL/HIGH] Fix TOCTOU vulnerability in settings write](https://github.com/panda850819/murmur-voice/pull/161) — `panda850819/murmur-voice` <sub>closed · 2026-05-04</sub>
-- [⚡ Bolt: [performance improvement] Optimize text replacements allocation](https://github.com/panda850819/murmur-voice/pull/160) — `panda850819/murmur-voice` <sub>closed · 2026-05-03</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
