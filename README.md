@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [feat(orphans): add GBRAIN_ORPHAN_EXCLUDE_FIRST_SEGMENTS env overlay for first-segment exclusions](https://github.com/garrytan/gbrain/pull/941) — `garrytan/gbrain` <sub>open · 2026-05-13</sub>
+- [feat(autopilot): allow GBRAIN_AUTOPILOT_MAX_RSS_MB env override for worker RSS watchdog](https://github.com/garrytan/gbrain/pull/938) — `garrytan/gbrain` <sub>open · 2026-05-13</sub>
 - [chore: remove unused deepcopy import](https://github.com/panda850819/n8n-docker/pull/1) — `panda850819/n8n-docker` <sub>open · 2026-05-12</sub>
 - [chore: remove unused TDLIB_VERBOSITY import](https://github.com/panda850819/telegram-cli/pull/1) — `panda850819/telegram-cli` <sub>open · 2026-05-12</sub>
 - [chore: remove unused typing.Any import](https://github.com/panda850819/slack-cli/pull/1) — `panda850819/slack-cli` <sub>open · 2026-05-12</sub>
 - [chore: strip trailing whitespace in README](https://github.com/panda850819/line-bot-with-chatgpt-and-gas/pull/2) — `panda850819/line-bot-with-chatgpt-and-gas` <sub>open · 2026-05-12</sub>
-- [docs: fix typos in old blog posts](https://github.com/panda850819/blog/pull/3) — `panda850819/blog` <sub>open · 2026-05-12</sub>
-- [docs: fix Refference -> Reference typo in README](https://github.com/panda850819/line-bot-with-chatgpt-and-gas/pull/1) — `panda850819/line-bot-with-chatgpt-and-gas` <sub>open · 2026-05-12</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
