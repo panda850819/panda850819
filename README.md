@@ -45,23 +45,23 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-05-19</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-05-18</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
 - **[telegram-cli](https://github.com/panda850819/telegram-cli)** — Headless Telegram CLI via tdlib - designed for AI agents and automation <sub>2026-05-12</sub>
 - **[slack-cli](https://github.com/panda850819/slack-cli)** — A CLI tool for searching and browsing Slack workspaces <sub>2026-05-12</sub>
 - **[line-bot-with-chatgpt-and-gas](https://github.com/panda850819/line-bot-with-chatgpt-and-gas)** — linebot with chatgpt and gas <sub>2026-05-12</sub>
-- **[blog](https://github.com/panda850819/blog)** <sub>2026-05-12</sub>
 <!-- RECENT-REPOS:END -->
 
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [feat: verify-the-test-loop lib + /review codex + voice binding](https://github.com/panda850819/pandastack/pull/4) — `panda850819/pandastack` <sub>merged · 2026-05-19</sub>
 - [feat(dictate): global Right-⌘ hotkey + auto-paste (Sprint 5)](https://github.com/panda850819/murmur/pull/2) — `panda850819/murmur` <sub>merged · 2026-05-16</sub>
 - [Murmur v0.1: build infra + audio capture + WhisperKit transcription](https://github.com/panda850819/murmur/pull/1) — `panda850819/murmur` <sub>merged · 2026-05-14</sub>
 - [feat(orphans): add GBRAIN_ORPHAN_EXCLUDE_FIRST_SEGMENTS env overlay for first-segment exclusions](https://github.com/garrytan/gbrain/pull/941) — `garrytan/gbrain` <sub>open · 2026-05-13</sub>
-- [feat(autopilot): allow GBRAIN_AUTOPILOT_MAX_RSS_MB env override for worker RSS watchdog](https://github.com/garrytan/gbrain/pull/938) — `garrytan/gbrain` <sub>open · 2026-05-13</sub>
+- [feat(autopilot): allow GBRAIN_AUTOPILOT_MAX_RSS_MB env override for worker RSS watchdog](https://github.com/garrytan/gbrain/pull/938) — `garrytan/gbrain` <sub>closed · 2026-05-13</sub>
 - [chore: remove unused deepcopy import](https://github.com/panda850819/n8n-docker/pull/1) — `panda850819/n8n-docker` <sub>open · 2026-05-12</sub>
-- [chore: remove unused TDLIB_VERBOSITY import](https://github.com/panda850819/telegram-cli/pull/1) — `panda850819/telegram-cli` <sub>open · 2026-05-12</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
