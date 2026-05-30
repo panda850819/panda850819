@@ -45,9 +45,9 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-05-30</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-05-28</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-05-24</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
 - **[telegram-cli](https://github.com/panda850819/telegram-cli)** — Headless Telegram CLI via tdlib - designed for AI agents and automation <sub>2026-05-12</sub>
 - **[slack-cli](https://github.com/panda850819/slack-cli)** — A CLI tool for searching and browsing Slack workspaces <sub>2026-05-12</sub>
