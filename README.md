@@ -45,8 +45,8 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-05-30</sub>
-- **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-05-28</sub>
+- **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-06-01</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-01</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
 - **[telegram-cli](https://github.com/panda850819/telegram-cli)** — Headless Telegram CLI via tdlib - designed for AI agents and automation <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [feat(macos): A' on-device proper-noun correction + C capture loop (gbrain-sourced)](https://github.com/panda850819/murmur/pull/6) — `panda850819/murmur` <sub>open · 2026-06-01</sub>
+- [feat(macos): M1 Groq LLM layer — cloud STT fallback, enhance, sanity filter](https://github.com/panda850819/murmur/pull/5) — `panda850819/murmur` <sub>merged · 2026-06-01</sub>
 - [feat(transcribe): guarantee Traditional-script Chinese output](https://github.com/panda850819/murmur/pull/4) — `panda850819/murmur` <sub>merged · 2026-05-28</sub>
 - [Sprint 6: WER eval harness + AirPods Pro baseline (v0.1)](https://github.com/panda850819/murmur/pull/3) — `panda850819/murmur` <sub>merged · 2026-05-28</sub>
 - [feat: verify-the-test-loop lib + /review codex + voice binding](https://github.com/panda850819/pandastack/pull/4) — `panda850819/pandastack` <sub>merged · 2026-05-19</sub>
 - [feat(dictate): global Right-⌘ hotkey + auto-paste (Sprint 5)](https://github.com/panda850819/murmur/pull/2) — `panda850819/murmur` <sub>merged · 2026-05-16</sub>
-- [Murmur v0.1: build infra + audio capture + WhisperKit transcription](https://github.com/panda850819/murmur/pull/1) — `panda850819/murmur` <sub>merged · 2026-05-14</sub>
-- [feat(orphans): add GBRAIN_ORPHAN_EXCLUDE_FIRST_SEGMENTS env overlay for first-segment exclusions](https://github.com/garrytan/gbrain/pull/941) — `garrytan/gbrain` <sub>open · 2026-05-13</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
