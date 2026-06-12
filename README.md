@@ -45,8 +45,8 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-10</sub>
-- **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-06-04</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-12</sub>
+- **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-06-12</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
 - **[telegram-cli](https://github.com/panda850819/telegram-cli)** — Headless Telegram CLI via tdlib - designed for AI agents and automation <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [chore: W24 retro GC — retire ship write mode + 3 contract fixes](https://github.com/panda850819/pandastack/pull/7) — `panda850819/pandastack` <sub>merged · 2026-06-12</sub>
+- [feat(macos): M5 dictation history + silent-audio guard + stats](https://github.com/panda850819/murmur/pull/10) — `panda850819/murmur` <sub>open · 2026-06-12</sub>
+- [feat(macos): M3a three modes — translate + ask (Typeless hotkey-map parity)](https://github.com/panda850819/murmur/pull/9) — `panda850819/murmur` <sub>open · 2026-06-12</sub>
 - [feat(transcript-ingest): auto-promote durable session learnings to brain/learnings/](https://github.com/panda850819/gbrain/pull/1) — `panda850819/gbrain` <sub>merged · 2026-06-08</sub>
 - [feat: compound loop — durable plan.md + Codex handover + learning read-back](https://github.com/panda850819/pandastack/pull/6) — `panda850819/pandastack` <sub>merged · 2026-06-08</sub>
 - [feat(macos): B' utterance-relevance filter for the Groq enhance glossary](https://github.com/panda850819/murmur/pull/8) — `panda850819/murmur` <sub>merged · 2026-06-04</sub>
-- [feat(macos): B' — gbrain glossary into Groq enhance prompt](https://github.com/panda850819/murmur/pull/7) — `panda850819/murmur` <sub>merged · 2026-06-03</sub>
-- [Harness: code-level enforce hooks + Nisi-style A/B eval of all 26 skills](https://github.com/panda850819/pandastack/pull/5) — `panda850819/pandastack` <sub>merged · 2026-06-02</sub>
-- [feat(macos): A' on-device proper-noun correction + C capture loop (gbrain-sourced)](https://github.com/panda850819/murmur/pull/6) — `panda850819/murmur` <sub>merged · 2026-06-01</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
