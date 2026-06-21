@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-20</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-21</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-06-16</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
-- [feat(retro): feed GC sweep with dispatch-miss + fresh pitfalls (PRO-42)](https://github.com/panda850819/pandastack/pull/23) — `panda850819/pandastack` <sub>open · 2026-06-20</sub>
-- [feat(drive): verify strict-mode hardening — set -euo pipefail (PRO-38 F-B)](https://github.com/panda850819/pandastack/pull/22) — `panda850819/pandastack` <sub>open · 2026-06-20</sub>
-- [feat(drive): distill drive-log ledger into retro GC inputs (PRO-40)](https://github.com/panda850819/pandastack/pull/21) — `panda850819/pandastack` <sub>merged · 2026-06-20</sub>
-- [feat(learnings): first_seen + recurrence counter for compound-loop ratchet (PRO-39)](https://github.com/panda850819/pandastack/pull/20) — `panda850819/pandastack` <sub>merged · 2026-06-20</sub>
-- [feat(drive): kill-switch — flag-file halts dispatch at loop boundary (PRO-36)](https://github.com/panda850819/pandastack/pull/19) — `panda850819/pandastack` <sub>merged · 2026-06-20</sub>
-- [docs(plan): reshape coding-agent-autonomy ladder (PRO-37)](https://github.com/panda850819/pandastack/pull/18) — `panda850819/pandastack` <sub>merged · 2026-06-20</sub>
+- [feat(hooks): ticket-gate PreToolUse guard (PRO-51)](https://github.com/panda850819/pandastack/pull/60) — `panda850819/pandastack` <sub>merged · 2026-06-21</sub>
+- [feat(skill-creator): manual near-neighbor route check (PRO-48)](https://github.com/panda850819/pandastack/pull/59) — `panda850819/pandastack` <sub>merged · 2026-06-21</sub>
+- [feat(skill-creator): refuse-to-build escape hatch + RESOLVER disambiguation (PRO-47)](https://github.com/panda850819/pandastack/pull/58) — `panda850819/pandastack` <sub>merged · 2026-06-21</sub>
+- [docs(firewall): retire L5 to advisory (PRO-46)](https://github.com/panda850819/pandastack/pull/57) — `panda850819/pandastack` <sub>merged · 2026-06-21</sub>
+- [feat(drive-cron): per-project autonomy config, default OFF (PRO-54)](https://github.com/panda850819/pandastack/pull/56) — `panda850819/pandastack` <sub>merged · 2026-06-21</sub>
+- [fix(destructive-guard): position-aware danger detection (PRO-52)](https://github.com/panda850819/pandastack/pull/55) — `panda850819/pandastack` <sub>merged · 2026-06-21</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
