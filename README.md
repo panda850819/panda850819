@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-23</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-24</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-06-16</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [feat(drive): --advance-auto — auto-write reversible AUTO-phase Linear transitions (PRO-80)](https://github.com/panda850819/pandastack/pull/86) — `panda850819/pandastack` <sub>open · 2026-06-24</sub>
 - [feat(drive): re-auditable trace as an acceptance criterion (PRO-77)](https://github.com/panda850819/pandastack/pull/85) — `panda850819/pandastack` <sub>merged · 2026-06-23</sub>
 - [feat(drive): granularity-alignment gate — sensor gap on uncovered task axes (PRO-74)](https://github.com/panda850819/pandastack/pull/84) — `panda850819/pandastack` <sub>merged · 2026-06-23</sub>
 - [feat(drive): layered verify sensor-profile + fail-closed acceptance (PRO-73)](https://github.com/panda850819/pandastack/pull/83) — `panda850819/pandastack` <sub>merged · 2026-06-23</sub>
 - [refactor(drive): extract loop-contract surface into pslib (PRO-78)](https://github.com/panda850819/pandastack/pull/82) — `panda850819/pandastack` <sub>merged · 2026-06-23</sub>
 - [fix(drive): scoreboard project-repo-aware — per-issue ancestry across repos (PRO-72)](https://github.com/panda850819/pandastack/pull/81) — `panda850819/pandastack` <sub>merged · 2026-06-23</sub>
-- [fix(drive): exec bits in worker diffs + cwd-relative acceptance contract (PRO-71)](https://github.com/panda850819/pandastack/pull/80) — `panda850819/pandastack` <sub>merged · 2026-06-23</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
