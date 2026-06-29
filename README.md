@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-26</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-29</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-06-16</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [refactor(skills): demote SKILL.md body bloat to lib/references (#106)](https://github.com/panda850819/pandastack/pull/109) — `panda850819/pandastack` <sub>open · 2026-06-29</sub>
+- [chore(evals): delete 3 vestigial eval.json checklists](https://github.com/panda850819/pandastack/pull/108) — `panda850819/pandastack` <sub>open · 2026-06-29</sub>
+- [chore(tests): re-cut resolver-golden to the v3.2 25-skill surface](https://github.com/panda850819/pandastack/pull/107) — `panda850819/pandastack` <sub>open · 2026-06-29</sub>
+- [chore: reconcile post-refactor stale docs + harden manifest-sync guard](https://github.com/panda850819/pandastack/pull/103) — `panda850819/pandastack` <sub>merged · 2026-06-29</sub>
+- [Remove the persona layer; add debug + ui as function skills](https://github.com/panda850819/pandastack/pull/101) — `panda850819/pandastack` <sub>merged · 2026-06-29</sub>
 - [fix(pack): clean post-split issue backlog](https://github.com/panda850819/pandastack/pull/100) — `panda850819/pandastack` <sub>merged · 2026-06-26</sub>
-- [[codex] repair skill construction-quality eval debt](https://github.com/panda850819/pandastack/pull/95) — `panda850819/pandastack` <sub>merged · 2026-06-26</sub>
-- [fix(codex): expose pandastack marketplace plugin](https://github.com/panda850819/pandastack/pull/94) — `panda850819/pandastack` <sub>merged · 2026-06-26</sub>
-- [Lean skills pack: flatten + bucket-rename (engineering/productivity) + eval loop + split out driver platform (#91)](https://github.com/panda850819/pandastack/pull/92) — `panda850819/pandastack` <sub>merged · 2026-06-26</sub>
-- [chore: remove personal launchd plist from public repo](https://github.com/panda850819/pandastack/pull/90) — `panda850819/pandastack` <sub>merged · 2026-06-26</sub>
-- [feat(#88): skills-cat category view for all 26 skills (Fork B / B1)](https://github.com/panda850819/pandastack/pull/89) — `panda850819/pandastack` <sub>merged · 2026-06-26</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
