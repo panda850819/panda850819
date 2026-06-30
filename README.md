@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-29</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-30</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-06-16</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
-- [refactor(skills): demote SKILL.md body bloat to lib/references (#106)](https://github.com/panda850819/pandastack/pull/109) — `panda850819/pandastack` <sub>open · 2026-06-29</sub>
-- [chore(evals): delete 3 vestigial eval.json checklists](https://github.com/panda850819/pandastack/pull/108) — `panda850819/pandastack` <sub>open · 2026-06-29</sub>
-- [chore(tests): re-cut resolver-golden to the v3.2 25-skill surface](https://github.com/panda850819/pandastack/pull/107) — `panda850819/pandastack` <sub>open · 2026-06-29</sub>
-- [chore: reconcile post-refactor stale docs + harden manifest-sync guard](https://github.com/panda850819/pandastack/pull/103) — `panda850819/pandastack` <sub>merged · 2026-06-29</sub>
-- [Remove the persona layer; add debug + ui as function skills](https://github.com/panda850819/pandastack/pull/101) — `panda850819/pandastack` <sub>merged · 2026-06-29</sub>
-- [fix(pack): clean post-split issue backlog](https://github.com/panda850819/pandastack/pull/100) — `panda850819/pandastack` <sub>merged · 2026-06-26</sub>
+- [fix(manifest): single-source version+count via `pandastack sync`; reconcile docs to 23 skills / v3.3.0](https://github.com/panda850819/pandastack/pull/123) — `panda850819/pandastack` <sub>open · 2026-06-30</sub>
+- [fix(plugin): bump plugin.json to 3.3.0 / 23 skills + lint-scan it](https://github.com/panda850819/pandastack/pull/121) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
+- [refactor: move retro-week/retro-month to the personal overlay (25→23)](https://github.com/panda850819/pandastack/pull/120) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
+- [feat(recall): wire sprint Stage 0 + debug to learnings-recall](https://github.com/panda850819/pandastack/pull/118) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
+- [feat(recall): store-agnostic learnings-recall + wire review Step 2](https://github.com/panda850819/pandastack/pull/117) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
+- [refactor(skills): de-personalize voice/identity for distribution](https://github.com/panda850819/pandastack/pull/115) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
