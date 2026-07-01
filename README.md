@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-06-30</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-01</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-06-16</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
-- [fix(manifest): single-source version+count via `pandastack sync`; reconcile docs to 23 skills / v3.3.0](https://github.com/panda850819/pandastack/pull/123) — `panda850819/pandastack` <sub>open · 2026-06-30</sub>
-- [fix(plugin): bump plugin.json to 3.3.0 / 23 skills + lint-scan it](https://github.com/panda850819/pandastack/pull/121) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
-- [refactor: move retro-week/retro-month to the personal overlay (25→23)](https://github.com/panda850819/pandastack/pull/120) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
-- [feat(recall): wire sprint Stage 0 + debug to learnings-recall](https://github.com/panda850819/pandastack/pull/118) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
-- [feat(recall): store-agnostic learnings-recall + wire review Step 2](https://github.com/panda850819/pandastack/pull/117) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
-- [refactor(skills): de-personalize voice/identity for distribution](https://github.com/panda850819/pandastack/pull/115) — `panda850819/pandastack` <sub>merged · 2026-06-30</sub>
+- [docs: freshness-sweep corrections — fix phantom quote, stale counts, dead persona ref](https://github.com/panda850819/pandastack/pull/136) — `panda850819/pandastack` <sub>merged · 2026-07-01</sub>
+- [docs(using-pandastack): regenerate eval after #127 ref fixes (unblock CI gate)](https://github.com/panda850819/pandastack/pull/133) — `panda850819/pandastack` <sub>merged · 2026-07-01</sub>
+- [docs(writing-great-skills): regenerate stale eval to match current SKILL.md](https://github.com/panda850819/pandastack/pull/131) — `panda850819/pandastack` <sub>merged · 2026-07-01</sub>
+- [fix(manifest): retier ship/handover to ext so core stays CLI-free (#125)](https://github.com/panda850819/pandastack/pull/130) — `panda850819/pandastack` <sub>merged · 2026-07-01</sub>
+- [ci: gate semantic linters in the test suite (closes #124)](https://github.com/panda850819/pandastack/pull/129) — `panda850819/pandastack` <sub>merged · 2026-07-01</sub>
+- [fix(using-pandastack): replace dead gbrain:cold-start and /plan routing targets](https://github.com/panda850819/pandastack/pull/128) — `panda850819/pandastack` <sub>merged · 2026-07-01</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
