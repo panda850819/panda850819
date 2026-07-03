@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-02</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-03</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-02</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
-- [feat(skills): audit follow-ups — delegation, decision discipline, closure evidence, subtract-first gate](https://github.com/panda850819/pandastack/pull/146) — `panda850819/pandastack` <sub>open · 2026-07-02</sub>
-- [fix(sync,sources,autopilot,jobs): repo paths absolute at ingress; refuse stored relative anchors](https://github.com/garrytan/gbrain/pull/2530) — `garrytan/gbrain` <sub>open · 2026-07-02</sub>
-- [ci: cover the linter-blind drift classes (closes #134)](https://github.com/panda850819/pandastack/pull/144) — `panda850819/pandastack` <sub>merged · 2026-07-02</sub>
-- [feat(meta): native-parity axis in the writing-great-skills scorecard](https://github.com/panda850819/pandastack/pull/143) — `panda850819/pandastack` <sub>merged · 2026-07-02</sub>
-- [feat(hooks): dispatch fired-log — observe every Skill invocation](https://github.com/panda850819/pandastack/pull/142) — `panda850819/pandastack` <sub>merged · 2026-07-02</sub>
-- [docs: single-source current-state counts in living prose](https://github.com/panda850819/pandastack/pull/141) — `panda850819/pandastack` <sub>merged · 2026-07-02</sub>
+- [fix(skills): register transcript-ingest in skills manifest](https://github.com/panda850819/gbrain/pull/15) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
+- [fix(skills): restore check-resolvable conformance on master](https://github.com/panda850819/gbrain/pull/14) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
+- [fix(transcript-ingest): preserve classification when a filed session grows](https://github.com/panda850819/gbrain/pull/12) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
+- [feat(orphans): tier orphan metric — knowledge scored, flow informational](https://github.com/panda850819/gbrain/pull/11) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
+- [feat(extract): source→atom edges from source_slug; chunked extract-atoms-drain](https://github.com/panda850819/gbrain/pull/10) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
+- [fix(subagent): repair tool pairing for OpenAI-tier models; single-source patterns allowlist](https://github.com/panda850819/gbrain/pull/9) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
