@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [fix(skills): declare transcript-ingest resolver triggers in frontmatter](https://github.com/panda850819/gbrain/pull/18) — `panda850819/gbrain` <sub>merged · 2026-07-04</sub>
+- [fix(skills): drop deprecated voice-note-ingest from package](https://github.com/panda850819/gbrain/pull/17) — `panda850819/gbrain` <sub>merged · 2026-07-04</sub>
 - [fix(skills): register transcript-ingest in skills manifest](https://github.com/panda850819/gbrain/pull/15) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
 - [fix(skills): restore check-resolvable conformance on master](https://github.com/panda850819/gbrain/pull/14) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
 - [fix(transcript-ingest): preserve classification when a filed session grows](https://github.com/panda850819/gbrain/pull/12) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
 - [feat(orphans): tier orphan metric — knowledge scored, flow informational](https://github.com/panda850819/gbrain/pull/11) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
-- [feat(extract): source→atom edges from source_slug; chunked extract-atoms-drain](https://github.com/panda850819/gbrain/pull/10) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
-- [fix(subagent): repair tool pairing for OpenAI-tier models; single-source patterns allowlist](https://github.com/panda850819/gbrain/pull/9) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
