@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-03</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-05</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-02</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [feat(handover): attach judgment-compact rules to codex payload](https://github.com/panda850819/pandastack/pull/164) — `panda850819/pandastack` <sub>merged · 2026-07-05</sub>
+- [feat(dispatch): unknown-bucket classification as fallback row](https://github.com/panda850819/pandastack/pull/163) — `panda850819/pandastack` <sub>merged · 2026-07-05</sub>
 - [fix(skills): declare transcript-ingest resolver triggers in frontmatter](https://github.com/panda850819/gbrain/pull/18) — `panda850819/gbrain` <sub>merged · 2026-07-04</sub>
 - [fix(skills): drop deprecated voice-note-ingest from package](https://github.com/panda850819/gbrain/pull/17) — `panda850819/gbrain` <sub>merged · 2026-07-04</sub>
 - [fix(skills): register transcript-ingest in skills manifest](https://github.com/panda850819/gbrain/pull/15) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
 - [fix(skills): restore check-resolvable conformance on master](https://github.com/panda850819/gbrain/pull/14) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
-- [fix(transcript-ingest): preserve classification when a filed session grows](https://github.com/panda850819/gbrain/pull/12) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
-- [feat(orphans): tier orphan metric — knowledge scored, flow informational](https://github.com/panda850819/gbrain/pull/11) — `panda850819/gbrain` <sub>merged · 2026-07-03</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
