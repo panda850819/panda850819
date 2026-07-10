@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-06</sub>
+- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-10</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-02</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
+- [release: make v3.4.2 Parity reproducible](https://github.com/panda850819/pandastack/pull/179) — `panda850819/pandastack` <sub>merged · 2026-07-10</sub>
+- [fix(runtime): close Claude-side false-green / false-block gaps in parity gate](https://github.com/panda850819/pandastack/pull/177) — `panda850819/pandastack` <sub>open · 2026-07-10</sub>
+- [fix(runtime): enforce cross-host skill parity](https://github.com/panda850819/pandastack/pull/175) — `panda850819/pandastack` <sub>merged · 2026-07-10</sub>
+- [feat: pin advisor and handover model anchors](https://github.com/panda850819/pandastack/pull/173) — `panda850819/pandastack` <sub>merged · 2026-07-10</sub>
+- [skill convergence 20→14: advisor primitive, cut 7, migrate lore to lib](https://github.com/panda850819/pandastack/pull/171) — `panda850819/pandastack` <sub>merged · 2026-07-10</sub>
 - [handover: <budget> block in the dispatch payload (#167)](https://github.com/panda850819/pandastack/pull/169) — `panda850819/pandastack` <sub>merged · 2026-07-06</sub>
-- [harness: mechanize the rules layer — verify-gate Stop hook, dispatch packet upgrade, instruction-audit skill (#165)](https://github.com/panda850819/pandastack/pull/166) — `panda850819/pandastack` <sub>merged · 2026-07-06</sub>
-- [feat(handover): attach judgment-compact rules to codex payload](https://github.com/panda850819/pandastack/pull/164) — `panda850819/pandastack` <sub>merged · 2026-07-05</sub>
-- [feat(dispatch): unknown-bucket classification as fallback row](https://github.com/panda850819/pandastack/pull/163) — `panda850819/pandastack` <sub>merged · 2026-07-05</sub>
-- [fix(skills): declare transcript-ingest resolver triggers in frontmatter](https://github.com/panda850819/gbrain/pull/18) — `panda850819/gbrain` <sub>merged · 2026-07-04</sub>
-- [fix(skills): drop deprecated voice-note-ingest from package](https://github.com/panda850819/gbrain/pull/17) — `panda850819/gbrain` <sub>merged · 2026-07-04</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
