@@ -45,7 +45,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pandastack](https://github.com/panda850819/pandastack)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-10</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-02</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
 - **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
@@ -56,12 +56,12 @@
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
-- [release: make v3.4.2 Parity reproducible](https://github.com/panda850819/pandastack/pull/179) — `panda850819/pandastack` <sub>merged · 2026-07-10</sub>
-- [fix(runtime): close Claude-side false-green / false-block gaps in parity gate](https://github.com/panda850819/pandastack/pull/177) — `panda850819/pandastack` <sub>open · 2026-07-10</sub>
-- [fix(runtime): enforce cross-host skill parity](https://github.com/panda850819/pandastack/pull/175) — `panda850819/pandastack` <sub>merged · 2026-07-10</sub>
-- [feat: pin advisor and handover model anchors](https://github.com/panda850819/pandastack/pull/173) — `panda850819/pandastack` <sub>merged · 2026-07-10</sub>
-- [skill convergence 20→14: advisor primitive, cut 7, migrate lore to lib](https://github.com/panda850819/pandastack/pull/171) — `panda850819/pandastack` <sub>merged · 2026-07-10</sub>
-- [handover: <budget> block in the dispatch payload (#167)](https://github.com/panda850819/pandastack/pull/169) — `panda850819/pandastack` <sub>merged · 2026-07-06</sub>
+- [fix(cycle): enforce extract-atoms drain deadline](https://github.com/garrytan/gbrain/pull/2752) — `garrytan/gbrain` <sub>open · 2026-07-11</sub>
+- [refactor(skills): reduce default runtime surface to 11](https://github.com/panda850819/verbs/pull/202) — `panda850819/verbs` <sub>open · 2026-07-11</sub>
+- [fix(runtime): prove live Codex hook trust](https://github.com/panda850819/verbs/pull/201) — `panda850819/verbs` <sub>open · 2026-07-11</sub>
+- [fix: transcript-ingest frontmatter roundtrip + NESTED_QUOTES false positives](https://github.com/panda850819/gbrain/pull/19) — `panda850819/gbrain` <sub>merged · 2026-07-11</sub>
+- [docs(roadmap): mark v0.6.0 shipped](https://github.com/panda850819/verbs/pull/198) — `panda850819/verbs` <sub>merged · 2026-07-11</sub>
+- [feat(release): prepare Verbs v0.6.0](https://github.com/panda850819/verbs/pull/196) — `panda850819/verbs` <sub>merged · 2026-07-11</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
