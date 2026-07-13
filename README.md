@@ -34,32 +34,32 @@
 ## Latest Writing
 
 <!-- BLOG-POSTS:START -->
-- [我的 AI 架構真的 Harness 嗎？](https://blog.pdzeng.com/blog/harness-2026-04/) <sub>2026-05-03</sub>
-- [很忙，但好像什麼都還沒做](https://blog.pdzeng.com/blog/busy-but-nothing-done-2026-feb-mar/) <sub>2026-04-06</sub>
-- [月報 #01 - 閒不下來的一月](https://blog.pdzeng.com/blog/2026-01-monthly/) <sub>2026-01-31</sub>
-- [2025 年報 -- 決策之年](https://blog.pdzeng.com/blog/2025-year-in-review/) <sub>2025-12-31</sub>
+- [我的 AI 架構真的 Harness 嗎？](https://pdzeng.com/writing/harness-2026-04/) <sub>2026-05-03</sub>
+- [很忙，但好像什麼都還沒做](https://pdzeng.com/writing/busy-but-nothing-done-2026-feb-mar/) <sub>2026-04-06</sub>
+- [月報 #01 - 閒不下來的一月](https://pdzeng.com/writing/2026-01-monthly/) <sub>2026-01-31</sub>
+- [2025 年報 -- 決策之年](https://pdzeng.com/writing/2025-year-in-review/) <sub>2025-12-31</sub>
 <!-- BLOG-POSTS:END -->
 
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** personal website <sub>2026-07-12</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-12</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-13</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-13</sub>
+- **[blog](https://github.com/panda850819/blog)** <sub>2026-07-13</sub>
+- **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-07-13</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-02</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
-- **[n8n-docker](https://github.com/panda850819/n8n-docker)** — 透過 CF Tunnel + Docker 實現本地 N8N 部署至外網上 <sub>2026-05-12</sub>
-- **[telegram-cli](https://github.com/panda850819/telegram-cli)** — Headless Telegram CLI via tdlib - designed for AI agents and automation <sub>2026-05-12</sub>
 <!-- RECENT-REPOS:END -->
 
 ## Recent Pull Requests
 
 <!-- RECENT-PRS:START -->
-- [feat(wayfinder): bootstrap charting mode](https://github.com/panda850819/verbs/pull/232) — `panda850819/verbs` <sub>merged · 2026-07-12</sub>
-- [feat: rebuild personal site — Next 16 glass-liquid, content migration, SEO](https://github.com/panda850819/pdzeng.com/pull/2) — `panda850819/pdzeng.com` <sub>open · 2026-07-12</sub>
-- [chore: release v0.9.0 — discipline cores](https://github.com/panda850819/verbs/pull/230) — `panda850819/verbs` <sub>merged · 2026-07-12</sub>
-- [feat: wayfinder — cross-session decision-map worker](https://github.com/panda850819/verbs/pull/228) — `panda850819/verbs` <sub>merged · 2026-07-12</sub>
-- [feat: grill absorbs spec/ticket mechanisms; ship release truth gate](https://github.com/panda850819/verbs/pull/227) — `panda850819/verbs` <sub>merged · 2026-07-12</sub>
-- [feat: wayfinder — cross-session decision-map worker](https://github.com/panda850819/verbs/pull/226) — `panda850819/verbs` <sub>closed · 2026-07-12</sub>
+- [fix(dispatch): pilot workers default to cheapest model tier](https://github.com/panda850819/verbs/pull/240) — `panda850819/verbs` <sub>open · 2026-07-13</sub>
+- [fix(hooks): verify-gate allows headless runs whose transcript never exists](https://github.com/panda850819/verbs/pull/239) — `panda850819/verbs` <sub>merged · 2026-07-13</sub>
+- [fix(hooks): ticket-gate tracks cd targets; expanduser on -C paths](https://github.com/panda850819/verbs/pull/237) — `panda850819/verbs` <sub>merged · 2026-07-13</sub>
+- [fix(skills): flip inverted user-invocable axis across all 14 skills](https://github.com/panda850819/verbs/pull/235) — `panda850819/verbs` <sub>merged · 2026-07-13</sub>
+- [fix(ci): wrangler-action packageManager bun](https://github.com/panda850819/pdzeng.com/pull/5) — `panda850819/pdzeng.com` <sub>merged · 2026-07-13</sub>
+- [feat: MetaMask-style low-poly panda + mobile + CI fix](https://github.com/panda850819/pdzeng.com/pull/4) — `panda850819/pdzeng.com` <sub>merged · 2026-07-13</sub>
 <!-- RECENT-PRS:END -->
 
 ## GitHub Activity
