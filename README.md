@@ -28,10 +28,8 @@
 
 ## Claude Code Skills
 
-- **[pandastack](https://github.com/panda850819/pandastack)** - Personal stack of skills, agents, and contexts for Claude Code. Renamed from pstack.
+- **[verbs](https://github.com/panda850819/verbs)** - Personal stack of skills, agents.
 - **[Product Management Skill](https://github.com/panda850819/product-management-skill)** - Product Manager expert skill for Claude Code
-- **[GEO Skills](https://github.com/panda850819/geo-skills)** - GEO (Generative Engine Optimization) skill pack for Claude Code
-
 
 ## Latest Writing
 
@@ -45,7 +43,7 @@
 ## Recently Active Repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-12</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** personal website <sub>2026-07-12</sub>
 - **[verbs](https://github.com/panda850819/verbs)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-12</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-02</sub>
 - **[notion-cli](https://github.com/panda850819/notion-cli)** — CLI tool for managing Notion workspace - search, query databases, and manage tasks from your terminal <sub>2026-05-26</sub>
