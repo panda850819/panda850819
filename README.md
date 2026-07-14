@@ -24,20 +24,20 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-14</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-14</sub>
 - **[verbs](https://github.com/panda850819/verbs)** — Public personal stack content (skills, agents, personal contexts) for pdctx framework. Renamed from pstack 2026-04-29. <sub>2026-07-14</sub>
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-13</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [feat: turn Writing into a unified content dashboard](https://github.com/panda850819/pdzeng.com/pull/9) — `panda850819/pdzeng.com` <sub>open · 2026-07-14</sub>
+- [fix: align public site with confirmed profile facts](https://github.com/panda850819/pdzeng.com/pull/7) — `panda850819/pdzeng.com` <sub>merged · 2026-07-14</sub>
+- [docs(readme): refocus profile on AI-native tools](https://github.com/panda850819/panda850819/pull/3) — `panda850819/panda850819` <sub>merged · 2026-07-14</sub>
 - [chore: add CLAUDE.md repo guidance](https://github.com/panda850819/murmur/pull/16) — `panda850819/murmur` <sub>open · 2026-07-14</sub>
 - [v0.42.58.1 fix(dream): keep canonical filing paths](https://github.com/panda850819/gbrain/pull/22) — `panda850819/gbrain` <sub>merged · 2026-07-14</sub>
 - [fix(hooks): ticket-gate strips heredoc bodies before classification](https://github.com/panda850819/verbs/pull/241) — `panda850819/verbs` <sub>merged · 2026-07-14</sub>
-- [fix(dispatch): pilot workers default to cheapest model tier](https://github.com/panda850819/verbs/pull/240) — `panda850819/verbs` <sub>merged · 2026-07-13</sub>
-- [fix(hooks): verify-gate allows headless runs whose transcript never exists](https://github.com/panda850819/verbs/pull/239) — `panda850819/verbs` <sub>merged · 2026-07-13</sub>
-- [fix(hooks): ticket-gate tracks cd targets; expanduser on -C paths](https://github.com/panda850819/verbs/pull/237) — `panda850819/verbs` <sub>merged · 2026-07-13</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
