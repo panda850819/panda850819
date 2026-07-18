@@ -24,20 +24,20 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-17</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-16</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-18</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-18</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [refactor(grill): collapse to one skill with a default structured close](https://github.com/panda850819/verbs/pull/253) — `panda850819/verbs` <sub>open · 2026-07-18</sub>
 - [feat: wiki v1 — IA, curated content, Pages deploy (#113)](https://github.com/wave-archive/wiki/pull/1) — `wave-archive/wiki` <sub>merged · 2026-07-17</sub>
 - [fix: improve writing presentation and accessibility](https://github.com/panda850819/pdzeng.com/pull/17) — `panda850819/pdzeng.com` <sub>merged · 2026-07-17</sub>
 - [feat(prototype): converge mode, state toggles, wayfinder mode pin](https://github.com/panda850819/verbs/pull/251) — `panda850819/verbs` <sub>merged · 2026-07-16</sub>
 - [perf(review): add low-risk fast path](https://github.com/panda850819/verbs/pull/249) — `panda850819/verbs` <sub>merged · 2026-07-16</sub>
 - [docs(evals): record current-model fitness audit](https://github.com/panda850819/verbs/pull/247) — `panda850819/verbs` <sub>merged · 2026-07-16</sub>
-- [feat(qa): publish acceptance evidence to PRs](https://github.com/panda850819/verbs/pull/245) — `panda850819/verbs` <sub>merged · 2026-07-15</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
