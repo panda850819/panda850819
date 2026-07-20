@@ -24,20 +24,20 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-19</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-19</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-20</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-20</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [feat(handover): add fresh-context worker primitive](https://github.com/panda850819/verbs/pull/257) — `panda850819/verbs` <sub>open · 2026-07-20</sub>
+- [feat: add harness-slim post-adoption evaluator](https://github.com/panda850819/verbs/pull/255) — `panda850819/verbs` <sub>merged · 2026-07-20</sub>
 - [fix(home): show only blog posts in latest writing](https://github.com/panda850819/pdzeng.com/pull/19) — `panda850819/pdzeng.com` <sub>merged · 2026-07-19</sub>
 - [refactor(grill): collapse to one skill with a default structured close](https://github.com/panda850819/verbs/pull/253) — `panda850819/verbs` <sub>merged · 2026-07-18</sub>
 - [feat: wiki v1 — IA, curated content, Pages deploy (#113)](https://github.com/wave-archive/wiki/pull/1) — `wave-archive/wiki` <sub>merged · 2026-07-17</sub>
 - [fix: improve writing presentation and accessibility](https://github.com/panda850819/pdzeng.com/pull/17) — `panda850819/pdzeng.com` <sub>merged · 2026-07-17</sub>
-- [feat(prototype): converge mode, state toggles, wayfinder mode pin](https://github.com/panda850819/verbs/pull/251) — `panda850819/verbs` <sub>merged · 2026-07-16</sub>
-- [perf(review): add low-risk fast path](https://github.com/panda850819/verbs/pull/249) — `panda850819/verbs` <sub>merged · 2026-07-16</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
