@@ -24,20 +24,20 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-23</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-22</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-24</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-24</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [feat: integrate tracker-native planning lifecycle](https://github.com/panda850819/verbs/pull/273) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
+- [feat: add vertical-slice Issue graph publisher](https://github.com/panda850819/verbs/pull/272) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
+- [feat: add canonical GitHub Spec publisher](https://github.com/panda850819/verbs/pull/271) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
+- [feat: add setup-verbs tracker configuration](https://github.com/panda850819/verbs/pull/270) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
+- [feat(docs): publish Verbs operating model](https://github.com/panda850819/verbs/pull/264) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
 - [chore(advisor): cut the always-on description to routing signal](https://github.com/panda850819/verbs/pull/262) — `panda850819/verbs` <sub>merged · 2026-07-22</sub>
-- [feat(ui): route motion-feel complaints to ui](https://github.com/panda850819/verbs/pull/259) — `panda850819/verbs` <sub>merged · 2026-07-21</sub>
-- [chore(release): 0.1.3](https://github.com/panda850819/i-have-adhd-zh-tw/pull/6) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-07-21</sub>
-- [docs(readme): 雙欄 Before/After](https://github.com/panda850819/i-have-adhd-zh-tw/pull/5) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-07-21</sub>
-- [feat(skill): add banned phrases, banned syntax, and calibration pairs](https://github.com/panda850819/i-have-adhd-zh-tw/pull/4) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-07-21</sub>
-- [fix: load plugin skill in Codex and Claude](https://github.com/panda850819/i-have-adhd-zh-tw/pull/3) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-07-21</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
