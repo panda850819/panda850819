@@ -24,8 +24,8 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-25</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-24</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-26</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-26</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
