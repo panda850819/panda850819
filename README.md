@@ -24,20 +24,20 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-30</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-30</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-31</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-31</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
-- [docs(map): close entry 5, scheduling stays outside Verbs](https://github.com/panda850819/verbs/pull/278) — `panda850819/verbs` <sub>open · 2026-07-30</sub>
-- [docs(map): refresh the v1 direction map against shipped tracker work](https://github.com/panda850819/verbs/pull/275) — `panda850819/verbs` <sub>merged · 2026-07-30</sub>
-- [feat: integrate tracker-native planning lifecycle](https://github.com/panda850819/verbs/pull/273) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
-- [feat: add vertical-slice Issue graph publisher](https://github.com/panda850819/verbs/pull/272) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
-- [feat: add canonical GitHub Spec publisher](https://github.com/panda850819/verbs/pull/271) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
-- [feat: add setup-verbs tracker configuration](https://github.com/panda850819/verbs/pull/270) — `panda850819/verbs` <sub>merged · 2026-07-24</sub>
+- [chore(manifest): reconcile legacy version history](https://github.com/panda850819/verbs/pull/314) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
+- [fix(dispatch): route regressions through debug](https://github.com/panda850819/verbs/pull/313) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
+- [fix(hooks): honor repo-declared test commands](https://github.com/panda850819/verbs/pull/312) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
+- [fix(hooks): stop denial copy teaching bypasses](https://github.com/panda850819/verbs/pull/311) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
+- [fix(sync): inventory every skill lib file](https://github.com/panda850819/verbs/pull/310) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
+- [feat(guard-report): aggregate guard denials into harness-slim evidence](https://github.com/panda850819/verbs/pull/304) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
