@@ -24,20 +24,20 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-07-31</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-07-31</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-01</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-01</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [docs(runtime): reconcile skills-only copy drift](https://github.com/panda850819/verbs/pull/319) — `panda850819/verbs` <sub>merged · 2026-08-01</sub>
+- [refactor(runtime): make Verbs skills-only](https://github.com/panda850819/verbs/pull/316) — `panda850819/verbs` <sub>merged · 2026-08-01</sub>
 - [chore(manifest): reconcile legacy version history](https://github.com/panda850819/verbs/pull/314) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
 - [fix(dispatch): route regressions through debug](https://github.com/panda850819/verbs/pull/313) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
 - [fix(hooks): honor repo-declared test commands](https://github.com/panda850819/verbs/pull/312) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
 - [fix(hooks): stop denial copy teaching bypasses](https://github.com/panda850819/verbs/pull/311) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
-- [fix(sync): inventory every skill lib file](https://github.com/panda850819/verbs/pull/310) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
-- [feat(guard-report): aggregate guard denials into harness-slim evidence](https://github.com/panda850819/verbs/pull/304) — `panda850819/verbs` <sub>merged · 2026-07-31</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
