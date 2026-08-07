@@ -24,20 +24,20 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-05</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-05</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-07</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-07</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [fix(smoke): accept bounded Codex skill reads](https://github.com/panda850819/verbs/pull/337) — `panda850819/verbs` <sub>merged · 2026-08-06</sub>
+- [docs(roadmap): reconcile the v1 evidence gate](https://github.com/panda850819/verbs/pull/333) — `panda850819/verbs` <sub>merged · 2026-08-06</sub>
+- [fix(bootstrap): bound optional CLI version probes](https://github.com/panda850819/verbs/pull/332) — `panda850819/verbs` <sub>merged · 2026-08-06</sub>
+- [feat(grill): adopt frontier interview rounds](https://github.com/panda850819/verbs/pull/329) — `panda850819/verbs` <sub>merged · 2026-08-06</sub>
 - [refactor(skills): slim high-risk workflow contracts](https://github.com/panda850819/verbs/pull/327) — `panda850819/verbs` <sub>merged · 2026-08-05</sub>
 - [refactor(skills): trim hot skill descriptions](https://github.com/panda850819/verbs/pull/326) — `panda850819/verbs` <sub>merged · 2026-08-05</sub>
-- [refactor(skills): slim workflow orchestrators](https://github.com/panda850819/verbs/pull/325) — `panda850819/verbs` <sub>merged · 2026-08-05</sub>
-- [feat(routing): add ask-boss caller handoff](https://github.com/panda850819/verbs/pull/321) — `panda850819/verbs` <sub>merged · 2026-08-04</sub>
-- [docs(runtime): reconcile skills-only copy drift](https://github.com/panda850819/verbs/pull/319) — `panda850819/verbs` <sub>merged · 2026-08-01</sub>
-- [refactor(runtime): make Verbs skills-only](https://github.com/panda850819/verbs/pull/316) — `panda850819/verbs` <sub>merged · 2026-08-01</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
