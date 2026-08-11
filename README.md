@@ -24,20 +24,21 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-10</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-09</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-11</sub>
+- **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
-- [docs(roadmap): record open issue decisions](https://github.com/panda850819/verbs/pull/355) — `panda850819/verbs` <sub>open · 2026-08-09</sub>
-- [test(contracts): scope frontier assertions to sections](https://github.com/panda850819/verbs/pull/347) — `panda850819/verbs` <sub>merged · 2026-08-09</sub>
-- [fix(model): close frontier behavior audit gaps](https://github.com/panda850819/verbs/pull/346) — `panda850819/verbs` <sub>merged · 2026-08-08</sub>
-- [refactor(distribution): use standard Skill packaging](https://github.com/panda850819/i-have-adhd-zh-tw/pull/7) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-08-08</sub>
-- [fix(handover): preserve explicit routing and detect Herdr](https://github.com/panda850819/verbs/pull/344) — `panda850819/verbs` <sub>merged · 2026-08-08</sub>
-- [audit(model): record current 19-skill fitness](https://github.com/panda850819/verbs/pull/342) — `panda850819/verbs` <sub>merged · 2026-08-08</sub>
+- [feat: add product engineering workflow stages](https://github.com/panda850819/verbs/pull/360) — `panda850819/verbs` <sub>open · 2026-08-11</sub>
+- [fix(auth): restore authenticated tweet reads](https://github.com/panda850819/xbird/pull/2) — `panda850819/xbird` <sub>merged · 2026-08-11</sub>
+- [feat(cli): add safety and stable output contracts](https://github.com/panda850819/xbird/pull/1) — `panda850819/xbird` <sub>merged · 2026-08-11</sub>
+- [feat: add visual codebase architecture survey](https://github.com/panda850819/verbs/pull/358) — `panda850819/verbs` <sub>merged · 2026-08-11</sub>
+- [docs(infra): verify owner PR and CI guardrail](https://github.com/panda850819/verbs/pull/357) — `panda850819/verbs` <sub>merged · 2026-08-11</sub>
+- [audit(model): measure Debug primary outcome](https://github.com/panda850819/verbs/pull/356) — `panda850819/verbs` <sub>merged · 2026-08-11</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
