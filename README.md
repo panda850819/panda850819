@@ -24,21 +24,21 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-11</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-12</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-12</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
-- [feat: add product engineering workflow stages](https://github.com/panda850819/verbs/pull/360) — `panda850819/verbs` <sub>open · 2026-08-11</sub>
-- [fix(auth): restore authenticated tweet reads](https://github.com/panda850819/xbird/pull/2) — `panda850819/xbird` <sub>merged · 2026-08-11</sub>
-- [feat(cli): add safety and stable output contracts](https://github.com/panda850819/xbird/pull/1) — `panda850819/xbird` <sub>merged · 2026-08-11</sub>
-- [feat: add visual codebase architecture survey](https://github.com/panda850819/verbs/pull/358) — `panda850819/verbs` <sub>merged · 2026-08-11</sub>
-- [docs(infra): verify owner PR and CI guardrail](https://github.com/panda850819/verbs/pull/357) — `panda850819/verbs` <sub>merged · 2026-08-11</sub>
-- [audit(model): measure Debug primary outcome](https://github.com/panda850819/verbs/pull/356) — `panda850819/verbs` <sub>merged · 2026-08-11</sub>
+- [audit(review): rerun major-model canaries](https://github.com/panda850819/verbs/pull/370) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
+- [feat(setup): move tracker mechanics into CLI](https://github.com/panda850819/verbs/pull/369) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
+- [refactor(design): centralize codebase design guidance](https://github.com/panda850819/verbs/pull/368) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
+- [refactor(harness): move slim audit to maintainer surface](https://github.com/panda850819/verbs/pull/367) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
+- [refactor(skills): retire handover transport](https://github.com/panda850819/verbs/pull/366) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
+- [feat: add product engineering workflow stages](https://github.com/panda850819/verbs/pull/360) — `panda850819/verbs` <sub>merged · 2026-08-11</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
