@@ -24,8 +24,8 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-12</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-12</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-13</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-13</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
@@ -33,12 +33,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [refactor(engine): rebuild research runtime in Bun](https://github.com/panda850819/last30days/pull/2) — `panda850819/last30days` <sub>merged · 2026-08-12</sub>
 - [audit(review): rerun major-model canaries](https://github.com/panda850819/verbs/pull/370) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
 - [feat(setup): move tracker mechanics into CLI](https://github.com/panda850819/verbs/pull/369) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
 - [refactor(design): centralize codebase design guidance](https://github.com/panda850819/verbs/pull/368) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
 - [refactor(harness): move slim audit to maintainer surface](https://github.com/panda850819/verbs/pull/367) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
 - [refactor(skills): retire handover transport](https://github.com/panda850819/verbs/pull/366) — `panda850819/verbs` <sub>merged · 2026-08-12</sub>
-- [feat: add product engineering workflow stages](https://github.com/panda850819/verbs/pull/360) — `panda850819/verbs` <sub>merged · 2026-08-11</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
