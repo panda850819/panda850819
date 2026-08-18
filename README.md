@@ -24,7 +24,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-17</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-18</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-17</sub>
 - **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-15</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [feat(ui): adopt PULL brand direction](https://github.com/panda850819/curio/pull/40) — `panda850819/curio` <sub>merged · 2026-08-17</sub>
 - [feat(github): add REST and Atom source adapters](https://github.com/panda850819/curio/pull/34) — `panda850819/curio` <sub>open · 2026-08-17</sub>
 - [Add read-only X source adapter](https://github.com/panda850819/curio/pull/22) — `panda850819/curio` <sub>merged · 2026-08-16</sub>
 - [Use compact Telegram collection labels](https://github.com/panda850819/curio/pull/20) — `panda850819/curio` <sub>merged · 2026-08-16</sub>
 - [Fix initial delivery behavior and Telegram rendering](https://github.com/panda850819/curio/pull/18) — `panda850819/curio` <sub>merged · 2026-08-16</sub>
 - [Make runtime secret readable by the Curio app user](https://github.com/panda850819/curio/pull/16) — `panda850819/curio` <sub>merged · 2026-08-15</sub>
-- [Hide Telegram secrets from rendered production Compose](https://github.com/panda850819/curio/pull/15) — `panda850819/curio` <sub>merged · 2026-08-15</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
