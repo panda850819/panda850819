@@ -24,9 +24,9 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-18</sub>
-- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-17</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-15</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-19</sub>
+- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-19</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-19</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [fix(deploy): route failure smoke through destination](https://github.com/panda850819/curio/pull/42) — `panda850819/curio` <sub>merged · 2026-08-19</sub>
+- [feat(agent): harden MCP responses and workflow](https://github.com/panda850819/curio/pull/41) — `panda850819/curio` <sub>merged · 2026-08-19</sub>
+- [docs(skills): map proactive routes and lifecycles](https://github.com/panda850819/verbs/pull/378) — `panda850819/verbs` <sub>merged · 2026-08-19</sub>
 - [feat(ui): adopt PULL brand direction](https://github.com/panda850819/curio/pull/40) — `panda850819/curio` <sub>merged · 2026-08-17</sub>
-- [feat(github): add REST and Atom source adapters](https://github.com/panda850819/curio/pull/34) — `panda850819/curio` <sub>open · 2026-08-17</sub>
+- [feat(github): add REST and Atom source adapters](https://github.com/panda850819/curio/pull/34) — `panda850819/curio` <sub>merged · 2026-08-17</sub>
 - [Add read-only X source adapter](https://github.com/panda850819/curio/pull/22) — `panda850819/curio` <sub>merged · 2026-08-16</sub>
-- [Use compact Telegram collection labels](https://github.com/panda850819/curio/pull/20) — `panda850819/curio` <sub>merged · 2026-08-16</sub>
-- [Fix initial delivery behavior and Telegram rendering](https://github.com/panda850819/curio/pull/18) — `panda850819/curio` <sub>merged · 2026-08-16</sub>
-- [Make runtime secret readable by the Curio app user](https://github.com/panda850819/curio/pull/16) — `panda850819/curio` <sub>merged · 2026-08-15</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
