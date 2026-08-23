@@ -24,9 +24,9 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-22</sub>
-- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-22</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-21</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-23</sub>
+- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-23</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-23</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [feat(agent): expose Reader workflows](https://github.com/panda850819/curio/pull/52) — `panda850819/curio` <sub>open · 2026-08-23</sub>
+- [feat(reader): persist state and saved quotes](https://github.com/panda850819/curio/pull/51) — `panda850819/curio` <sub>open · 2026-08-23</sub>
+- [feat(reader): enrich summary-only articles](https://github.com/panda850819/curio/pull/50) — `panda850819/curio` <sub>open · 2026-08-23</sub>
+- [feat(reader): add safe responsive reading surface](https://github.com/panda850819/curio/pull/49) — `panda850819/curio` <sub>open · 2026-08-23</sub>
+- [docs(ui): absorb interface quality evidence rules](https://github.com/panda850819/verbs/pull/382) — `panda850819/verbs` <sub>merged · 2026-08-23</sub>
 - [feat(agent): subscribe directly from source URL](https://github.com/panda850819/curio/pull/44) — `panda850819/curio` <sub>merged · 2026-08-22</sub>
-- [chore(verbs): remove retired pandastack shim](https://github.com/panda850819/verbs/pull/380) — `panda850819/verbs` <sub>open · 2026-08-21</sub>
-- [fix(deploy): route failure smoke through destination](https://github.com/panda850819/curio/pull/42) — `panda850819/curio` <sub>merged · 2026-08-19</sub>
-- [feat(agent): harden MCP responses and workflow](https://github.com/panda850819/curio/pull/41) — `panda850819/curio` <sub>merged · 2026-08-19</sub>
-- [docs(skills): map proactive routes and lifecycles](https://github.com/panda850819/verbs/pull/378) — `panda850819/verbs` <sub>merged · 2026-08-19</sub>
-- [feat(ui): adopt PULL brand direction](https://github.com/panda850819/curio/pull/40) — `panda850819/curio` <sub>merged · 2026-08-17</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
