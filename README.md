@@ -24,8 +24,8 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-25</sub>
-- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-25</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-26</sub>
+- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-26</sub>
 - **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-23</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [chore(deploy): pin reader navigation release](https://github.com/panda850819/curio/pull/72) — `panda850819/curio` <sub>merged · 2026-08-26</sub>
+- [feat(reader): add responsive date navigation](https://github.com/panda850819/curio/pull/71) — `panda850819/curio` <sub>merged · 2026-08-26</sub>
+- [fix(reader): decode feed display entities](https://github.com/panda850819/curio/pull/70) — `panda850819/curio` <sub>merged · 2026-08-26</sub>
 - [chore(deploy): pin approved Reader release](https://github.com/panda850819/curio/pull/66) — `panda850819/curio` <sub>merged · 2026-08-25</sub>
 - [fix(reader): format HTML article listings](https://github.com/panda850819/curio/pull/65) — `panda850819/curio` <sub>merged · 2026-08-25</sub>
 - [chore(deploy): pin rich Reader release](https://github.com/panda850819/curio/pull/63) — `panda850819/curio` <sub>merged · 2026-08-25</sub>
-- [fix(reader): preserve rich source content](https://github.com/panda850819/curio/pull/61) — `panda850819/curio` <sub>merged · 2026-08-25</sub>
-- [fix(deploy): route outbox smoke subscription](https://github.com/panda850819/curio/pull/59) — `panda850819/curio` <sub>merged · 2026-08-25</sub>
-- [chore(deploy): pin source-aware Reader release](https://github.com/panda850819/curio/pull/58) — `panda850819/curio` <sub>merged · 2026-08-25</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
