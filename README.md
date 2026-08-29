@@ -24,7 +24,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-28</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-29</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-26</sub>
 - **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-23</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
