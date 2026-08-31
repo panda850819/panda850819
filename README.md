@@ -24,9 +24,9 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-30</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-31</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-31</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-26</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-23</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [feat: sharpen homepage Operations × AI positioning](https://github.com/panda850819/pdzeng.com/pull/25) — `panda850819/pdzeng.com` <sub>merged · 2026-08-31</sub>
+- [chore(skills): retire unused workflows](https://github.com/panda850819/verbs/pull/384) — `panda850819/verbs` <sub>merged · 2026-08-31</sub>
+- [fix: update Yei Finance employment dates](https://github.com/panda850819/pdzeng.com/pull/23) — `panda850819/pdzeng.com` <sub>merged · 2026-08-31</sub>
+- [fix(doctor): classify non-outage health warnings](https://github.com/panda850819/gbrain/pull/27) — `panda850819/gbrain` <sub>merged · 2026-08-31</sub>
+- [v0.47.7.0 feat(runtime): rebase external runtime adapter (#23)](https://github.com/panda850819/gbrain/pull/25) — `panda850819/gbrain` <sub>merged · 2026-08-31</sub>
 - [v0.42.64.0 feat(runtime): execute dream phases through external runtime (#23)](https://github.com/panda850819/gbrain/pull/24) — `panda850819/gbrain` <sub>merged · 2026-08-30</sub>
-- [chore(deploy): pin reader navigation release](https://github.com/panda850819/curio/pull/72) — `panda850819/curio` <sub>merged · 2026-08-26</sub>
-- [feat(reader): add responsive date navigation](https://github.com/panda850819/curio/pull/71) — `panda850819/curio` <sub>merged · 2026-08-26</sub>
-- [fix(reader): decode feed display entities](https://github.com/panda850819/curio/pull/70) — `panda850819/curio` <sub>merged · 2026-08-26</sub>
-- [chore(deploy): pin approved Reader release](https://github.com/panda850819/curio/pull/66) — `panda850819/curio` <sub>merged · 2026-08-25</sub>
-- [fix(reader): format HTML article listings](https://github.com/panda850819/curio/pull/65) — `panda850819/curio` <sub>merged · 2026-08-25</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
