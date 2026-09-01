@@ -24,22 +24,22 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-08-31</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-09-01</sub>
+- **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-09-01</sub>
+- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-09-01</sub>
 - **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-31</sub>
-- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-08-26</sub>
-- **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-08-11</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
-- [feat: sharpen homepage Operations × AI positioning](https://github.com/panda850819/pdzeng.com/pull/25) — `panda850819/pdzeng.com` <sub>merged · 2026-08-31</sub>
-- [chore(skills): retire unused workflows](https://github.com/panda850819/verbs/pull/384) — `panda850819/verbs` <sub>merged · 2026-08-31</sub>
-- [fix: update Yei Finance employment dates](https://github.com/panda850819/pdzeng.com/pull/23) — `panda850819/pdzeng.com` <sub>merged · 2026-08-31</sub>
-- [fix(doctor): classify non-outage health warnings](https://github.com/panda850819/gbrain/pull/27) — `panda850819/gbrain` <sub>merged · 2026-08-31</sub>
-- [v0.47.7.0 feat(runtime): rebase external runtime adapter (#23)](https://github.com/panda850819/gbrain/pull/25) — `panda850819/gbrain` <sub>merged · 2026-08-31</sub>
-- [v0.42.64.0 feat(runtime): execute dream phases through external runtime (#23)](https://github.com/panda850819/gbrain/pull/24) — `panda850819/gbrain` <sub>merged · 2026-08-30</sub>
+- [feat(upstream): integrate v0.47.9.0](https://github.com/panda850819/gbrain/pull/37) — `panda850819/gbrain` <sub>open · 2026-09-01</sub>
+- [feat: incubate constrained Ego Lite MCP adapter](https://github.com/panda850819/xbird/pull/6) — `panda850819/xbird` <sub>open · 2026-09-01</sub>
+- [feat: add read-only local MCP server](https://github.com/panda850819/xbird/pull/4) — `panda850819/xbird` <sub>open · 2026-09-01</sub>
+- [fix(dream): prefer active source filing policy](https://github.com/panda850819/gbrain/pull/35) — `panda850819/gbrain` <sub>merged · 2026-09-01</sub>
+- [feat(dream): integrate upstream v0.47.8 wave](https://github.com/panda850819/gbrain/pull/33) — `panda850819/gbrain` <sub>merged · 2026-09-01</sub>
+- [fix(put_page): accept reserved raw policy rule](https://github.com/panda850819/gbrain/pull/31) — `panda850819/gbrain` <sub>merged · 2026-09-01</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
