@@ -24,8 +24,8 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-09-01</sub>
-- **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-09-01</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-09-02</sub>
+- **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-09-02</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-09-01</sub>
 - **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-31</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
-- [feat(upstream): integrate v0.47.9.0](https://github.com/panda850819/gbrain/pull/37) — `panda850819/gbrain` <sub>open · 2026-09-01</sub>
-- [feat: incubate constrained Ego Lite MCP adapter](https://github.com/panda850819/xbird/pull/6) — `panda850819/xbird` <sub>open · 2026-09-01</sub>
-- [feat: add read-only local MCP server](https://github.com/panda850819/xbird/pull/4) — `panda850819/xbird` <sub>open · 2026-09-01</sub>
-- [fix(dream): prefer active source filing policy](https://github.com/panda850819/gbrain/pull/35) — `panda850819/gbrain` <sub>merged · 2026-09-01</sub>
-- [feat(dream): integrate upstream v0.47.8 wave](https://github.com/panda850819/gbrain/pull/33) — `panda850819/gbrain` <sub>merged · 2026-09-01</sub>
-- [fix(put_page): accept reserved raw policy rule](https://github.com/panda850819/gbrain/pull/31) — `panda850819/gbrain` <sub>merged · 2026-09-01</sub>
+- [fix(ci): align llms generator with fork bundle URLs](https://github.com/panda850819/gbrain/pull/39) — `panda850819/gbrain` <sub>merged · 2026-09-02</sub>
+- [fix(ci): restore generated llms outputs](https://github.com/panda850819/gbrain/pull/38) — `panda850819/gbrain` <sub>closed · 2026-09-02</sub>
+- [feat: add constrained local MCP adapter](https://github.com/panda850819/ego-lite/pull/1) — `panda850819/ego-lite` <sub>merged · 2026-09-02</sub>
+- [feat(upstream): integrate v0.47.9.0](https://github.com/panda850819/gbrain/pull/37) — `panda850819/gbrain` <sub>merged · 2026-09-01</sub>
+- [feat: incubate constrained Ego Lite MCP adapter](https://github.com/panda850819/xbird/pull/6) — `panda850819/xbird` <sub>closed · 2026-09-01</sub>
+- [feat: add read-only local MCP server](https://github.com/panda850819/xbird/pull/4) — `panda850819/xbird` <sub>merged · 2026-09-01</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
