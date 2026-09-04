@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [fix(embed): apply permanent-failure retry policy to backfill callers](https://github.com/panda850819/gbrain/pull/44) — `panda850819/gbrain` <sub>merged · 2026-09-04</sub>
+- [fix(put_page): skip retries for permanent embedding failures](https://github.com/panda850819/gbrain/pull/43) — `panda850819/gbrain` <sub>merged · 2026-09-04</sub>
+- [fix(put_page): complete degraded embedding contract](https://github.com/panda850819/gbrain/pull/42) — `panda850819/gbrain` <sub>merged · 2026-09-04</sub>
+- [fix(put_page): persist pages when embedding provider fails](https://github.com/panda850819/gbrain/pull/41) — `panda850819/gbrain` <sub>merged · 2026-09-04</sub>
 - [fix(ci): align llms generator with fork bundle URLs](https://github.com/panda850819/gbrain/pull/39) — `panda850819/gbrain` <sub>merged · 2026-09-02</sub>
 - [fix(ci): restore generated llms outputs](https://github.com/panda850819/gbrain/pull/38) — `panda850819/gbrain` <sub>closed · 2026-09-02</sub>
-- [feat: add constrained local MCP adapter](https://github.com/panda850819/ego-lite/pull/1) — `panda850819/ego-lite` <sub>merged · 2026-09-02</sub>
-- [feat(upstream): integrate v0.47.9.0](https://github.com/panda850819/gbrain/pull/37) — `panda850819/gbrain` <sub>merged · 2026-09-01</sub>
-- [feat: incubate constrained Ego Lite MCP adapter](https://github.com/panda850819/xbird/pull/6) — `panda850819/xbird` <sub>closed · 2026-09-01</sub>
-- [feat: add read-only local MCP server](https://github.com/panda850819/xbird/pull/4) — `panda850819/xbird` <sub>merged · 2026-09-01</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
