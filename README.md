@@ -24,22 +24,22 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-09-02</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-09-08</sub>
+- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-09-08</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-09-02</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-09-01</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-08-31</sub>
 - **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
-- [test(ci): clear exact-merge release blockers](https://github.com/panda850819/gbrain/pull/49) — `panda850819/gbrain` <sub>open · 2026-09-07</sub>
+- [refactor(skills): slim specialist instructions](https://github.com/panda850819/verbs/pull/386) — `panda850819/verbs` <sub>merged · 2026-09-08</sub>
+- [v0.47.9.0 test(ci): clear exact-merge CI blockers (#48)](https://github.com/panda850819/gbrain/pull/49) — `panda850819/gbrain` <sub>merged · 2026-09-07</sub>
 - [fix(embed): apply permanent-failure retry policy to backfill callers](https://github.com/panda850819/gbrain/pull/44) — `panda850819/gbrain` <sub>merged · 2026-09-04</sub>
 - [fix(put_page): skip retries for permanent embedding failures](https://github.com/panda850819/gbrain/pull/43) — `panda850819/gbrain` <sub>merged · 2026-09-04</sub>
 - [fix(put_page): complete degraded embedding contract](https://github.com/panda850819/gbrain/pull/42) — `panda850819/gbrain` <sub>merged · 2026-09-04</sub>
 - [fix(put_page): persist pages when embedding provider fails](https://github.com/panda850819/gbrain/pull/41) — `panda850819/gbrain` <sub>merged · 2026-09-04</sub>
-- [fix(ci): align llms generator with fork bundle URLs](https://github.com/panda850819/gbrain/pull/39) — `panda850819/gbrain` <sub>merged · 2026-09-02</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
