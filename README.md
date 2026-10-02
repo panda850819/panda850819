@@ -24,22 +24,20 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** <sub>2026-10-01</sub>
-- **[verbs](https://github.com/panda850819/verbs)** — personal skill pack <sub>2026-09-27</sub>
-- **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-09-02</sub>
-- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-09-01</sub>
-- **[murmur](https://github.com/panda850819/murmur)** — Voice → text dictation for macOS+iOS. Personal dogfood + practice repo. Successor to panda850819/murmur-voice (Tauri/Rust). Hard kill 2026-08-11 if no iOS TestFlight. <sub>2026-07-15</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-02</sub>
+- **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-10-02</sub>
+- **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-10-02</sub>
 <!-- RECENT-REPOS:END -->
 
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [chore: add MIT license](https://github.com/panda850819/panda850819/pull/4) — `panda850819/panda850819` <sub>merged · 2026-10-02</sub>
+- [chore: add MIT license](https://github.com/panda850819/curio/pull/75) — `panda850819/curio` <sub>merged · 2026-10-02</sub>
+- [chore: add MIT license](https://github.com/panda850819/pdzeng.com/pull/28) — `panda850819/pdzeng.com` <sub>merged · 2026-10-02</sub>
+- [fix(mcp): support installed Ego Lite runtime APIs](https://github.com/panda850819/ego-lite/pull/2) — `panda850819/ego-lite` <sub>open · 2026-10-02</sub>
 - [docs(release): record pandastack shim removal](https://github.com/panda850819/verbs/pull/389) — `panda850819/verbs` <sub>merged · 2026-09-27</sub>
 - [fix: publish current writing without VPS builds](https://github.com/panda850819/pdzeng.com/pull/27) — `panda850819/pdzeng.com` <sub>merged · 2026-09-22</sub>
-- [fix: recover writing sync push races](https://github.com/panda850819/pdzeng.com/pull/26) — `panda850819/pdzeng.com` <sub>merged · 2026-09-22</sub>
-- [feat(review): bound escalated review loops](https://github.com/panda850819/verbs/pull/388) — `panda850819/verbs` <sub>merged · 2026-09-22</sub>
-- [refactor(skills): slim specialist instructions](https://github.com/panda850819/verbs/pull/386) — `panda850819/verbs` <sub>merged · 2026-09-08</sub>
-- [v0.47.9.0 test(ci): clear exact-merge CI blockers (#48)](https://github.com/panda850819/gbrain/pull/49) — `panda850819/gbrain` <sub>merged · 2026-09-07</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
