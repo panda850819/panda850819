@@ -24,7 +24,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-02</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-03</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-10-02</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-10-02</sub>
 <!-- RECENT-REPOS:END -->
@@ -32,12 +32,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [chore(merge): integrate deployed panda/main into master](https://github.com/panda850819/gbrain/pull/50) — `panda850819/gbrain` <sub>merged · 2026-10-02</sub>
 - [chore: add MIT license](https://github.com/panda850819/panda850819/pull/4) — `panda850819/panda850819` <sub>merged · 2026-10-02</sub>
 - [chore: add MIT license](https://github.com/panda850819/curio/pull/75) — `panda850819/curio` <sub>merged · 2026-10-02</sub>
 - [chore: add MIT license](https://github.com/panda850819/pdzeng.com/pull/28) — `panda850819/pdzeng.com` <sub>merged · 2026-10-02</sub>
 - [fix(mcp): support installed Ego Lite runtime APIs](https://github.com/panda850819/ego-lite/pull/2) — `panda850819/ego-lite` <sub>open · 2026-10-02</sub>
 - [docs(release): record pandastack shim removal](https://github.com/panda850819/verbs/pull/389) — `panda850819/verbs` <sub>merged · 2026-09-27</sub>
-- [fix: publish current writing without VPS builds](https://github.com/panda850819/pdzeng.com/pull/27) — `panda850819/pdzeng.com` <sub>merged · 2026-09-22</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
