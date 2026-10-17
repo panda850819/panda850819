@@ -24,7 +24,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-16</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-17</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-10-02</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-10-02</sub>
 <!-- RECENT-REPOS:END -->
@@ -32,12 +32,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [feat: site copy from Panda's interview, TONX/Yei cases, About, OG image](https://github.com/panda850819/pdzeng.com/pull/33) — `panda850819/pdzeng.com` <sub>merged · 2026-10-17</sub>
 - [feat: signature-led redesign, /now page, and /work case studies](https://github.com/panda850819/pdzeng.com/pull/31) — `panda850819/pdzeng.com` <sub>merged · 2026-10-16</sub>
 - [fix: restore mobile home link and keep pages visible without JS](https://github.com/panda850819/pdzeng.com/pull/29) — `panda850819/pdzeng.com` <sub>merged · 2026-10-16</sub>
 - [ci(heavy-tests): re-pin hermes to v0.21.6 + skip paid door tiers when ANTHROPIC_API_KEY is empty](https://github.com/panda850819/gbrain/pull/51) — `panda850819/gbrain` <sub>merged · 2026-10-12</sub>
 - [chore(merge): integrate deployed panda/main into master](https://github.com/panda850819/gbrain/pull/50) — `panda850819/gbrain` <sub>merged · 2026-10-02</sub>
 - [chore: add MIT license](https://github.com/panda850819/panda850819/pull/4) — `panda850819/panda850819` <sub>merged · 2026-10-02</sub>
-- [chore: add MIT license](https://github.com/panda850819/curio/pull/75) — `panda850819/curio` <sub>merged · 2026-10-02</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
