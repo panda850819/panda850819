@@ -12,12 +12,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ## Latest writing
 
 <!-- BLOG-POSTS:START -->
+- [一樣的午後](https://pdzeng.substack.com/p/ba5) <sub>2026-10-20</sub>
 - [29.999](https://pdzeng.substack.com/p/29999) <sub>2026-08-18</sub>
 - [龐龐 - 我們永遠的可愛寶貝](https://pdzeng.substack.com/p/0af) <sub>2026-05-23</sub>
 - [我的 AI 架構真的 Harness 嗎？](https://pdzeng.substack.com/p/ai-harness) <sub>2026-05-03</sub>
 - [很忙，但好像什麼都還沒做](https://pdzeng.substack.com/p/fd5) <sub>2026-04-06</sub>
 - [月報 #01 - 閒不下來的一月](https://pdzeng.substack.com/p/01) <sub>2026-02-01</sub>
-- [2025 年報 - 決策之年](https://pdzeng.substack.com/p/2025) <sub>2026-01-01</sub>
 <!-- BLOG-POSTS:END -->
 
 <details>
@@ -26,7 +26,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-19</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-20</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-10-19</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-10-02</sub>
 <!-- RECENT-REPOS:END -->
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [fix: serve /icon, /apple-icon, /opengraph-image as image/png](https://github.com/panda850819/pdzeng.com/pull/39) — `panda850819/pdzeng.com` <sub>open · 2026-10-20</sub>
+- [feat: favicon, icon and apple-touch-icon from the signature glyph](https://github.com/panda850819/pdzeng.com/pull/38) — `panda850819/pdzeng.com` <sub>merged · 2026-10-20</sub>
 - [fix(graphql): fall back to POST when GET reads return 401 code 32](https://github.com/panda850819/xbird/pull/7) — `panda850819/xbird` <sub>merged · 2026-10-19</sub>
 - [fix(writing-sync): install deps and generate velite before typecheck after pull](https://github.com/panda850819/pdzeng.com/pull/37) — `panda850819/pdzeng.com` <sub>merged · 2026-10-19</sub>
 - [feat: Substack copies redirect to Substack, 隨口說 entry on home, About trim](https://github.com/panda850819/pdzeng.com/pull/36) — `panda850819/pdzeng.com` <sub>merged · 2026-10-19</sub>
 - [feat: /writing categories become 寫作 Writing / 隨口說 MurmurTalk](https://github.com/panda850819/pdzeng.com/pull/35) — `panda850819/pdzeng.com` <sub>merged · 2026-10-19</sub>
-- [fix: drop home message section, tighten TONX case, Title Case Yei functions](https://github.com/panda850819/pdzeng.com/pull/34) — `panda850819/pdzeng.com` <sub>merged · 2026-10-19</sub>
-- [feat: site copy from Panda's interview, TONX/Yei cases, About, OG image](https://github.com/panda850819/pdzeng.com/pull/33) — `panda850819/pdzeng.com` <sub>merged · 2026-10-17</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
