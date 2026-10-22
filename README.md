@@ -26,7 +26,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-21</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-22</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-10-21</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-10-21</sub>
 <!-- RECENT-REPOS:END -->
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [test: allow unregistered add_link through coordinated manual-link write](https://github.com/panda850819/gbrain/pull/53) — `panda850819/gbrain` <sub>merged · 2026-10-22</sub>
+- [fix: put_page trailing-newline source_changed (managed brain)](https://github.com/panda850819/gbrain/pull/52) — `panda850819/gbrain` <sub>merged · 2026-10-22</sub>
 - [fix: serve /icon, /apple-icon, /opengraph-image as image/png](https://github.com/panda850819/pdzeng.com/pull/39) — `panda850819/pdzeng.com` <sub>merged · 2026-10-20</sub>
 - [feat: favicon, icon and apple-touch-icon from the signature glyph](https://github.com/panda850819/pdzeng.com/pull/38) — `panda850819/pdzeng.com` <sub>merged · 2026-10-20</sub>
 - [fix(graphql): fall back to POST when GET reads return 401 code 32](https://github.com/panda850819/xbird/pull/7) — `panda850819/xbird` <sub>merged · 2026-10-19</sub>
 - [fix(writing-sync): install deps and generate velite before typecheck after pull](https://github.com/panda850819/pdzeng.com/pull/37) — `panda850819/pdzeng.com` <sub>merged · 2026-10-19</sub>
-- [feat: Substack copies redirect to Substack, 隨口說 entry on home, About trim](https://github.com/panda850819/pdzeng.com/pull/36) — `panda850819/pdzeng.com` <sub>merged · 2026-10-19</sub>
-- [feat: /writing categories become 寫作 Writing / 隨口說 MurmurTalk](https://github.com/panda850819/pdzeng.com/pull/35) — `panda850819/pdzeng.com` <sub>merged · 2026-10-19</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
