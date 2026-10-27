@@ -26,7 +26,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-26</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-10-27</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-10-21</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-10-21</sub>
 <!-- RECENT-REPOS:END -->
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [fix(deps): bump @modelcontextprotocol/sdk 1.32.1 + zod ^4.6.6, tighten express-chain overrides](https://github.com/panda850819/gbrain/pull/55) — `panda850819/gbrain` <sub>merged · 2026-10-27</sub>
 - [feat(writing-sync): fetch X posts through xbird](https://github.com/panda850819/pdzeng.com/pull/45) — `panda850819/pdzeng.com` <sub>merged · 2026-10-26</sub>
 - [[tier1] fix(watchdog): write worker logs straight to fd 2 (bun 1.4 stderr forwarding)](https://github.com/panda850819/gbrain/pull/54) — `panda850819/gbrain` <sub>merged · 2026-10-25</sub>
 - [feat: footer CTA 歡迎聊聊 → Calendly, nav 履歷, /cv/ 中文標題](https://github.com/panda850819/pdzeng.com/pull/44) — `panda850819/pdzeng.com` <sub>open · 2026-10-25</sub>
 - [feat: /substack/ 熊貓隨口說 page, one-line home link, footer contact copy](https://github.com/panda850819/pdzeng.com/pull/43) — `panda850819/pdzeng.com` <sub>merged · 2026-10-25</sub>
 - [feat(home): Operations Manager positioning + zh SEO/OG metadata](https://github.com/panda850819/pdzeng.com/pull/42) — `panda850819/pdzeng.com` <sub>open · 2026-10-23</sub>
-- [fix(a11y): zh-Hant lang, real menu close button, 12px floor, 44px mobile taps, shorter mobile hero](https://github.com/panda850819/pdzeng.com/pull/41) — `panda850819/pdzeng.com` <sub>open · 2026-10-23</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
