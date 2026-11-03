@@ -26,7 +26,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-11-02</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-11-03</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-10-21</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-10-21</sub>
 <!-- RECENT-REPOS:END -->
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [feat(skill): sync upstream list cap and add collab guide](https://github.com/panda850819/i-have-adhd-zh-tw/pull/8) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-11-03</sub>
+- [test(opencode-door): T4 keyless SMOKE blocked by free-tier quota — classify attempts, keep evidence](https://github.com/panda850819/gbrain/pull/58) — `panda850819/gbrain` <sub>merged · 2026-11-03</sub>
+- [fix(deps): bump lockfile deps to clear OSV-Scanner findings](https://github.com/panda850819/gbrain/pull/57) — `panda850819/gbrain` <sub>merged · 2026-11-03</sub>
+- [fix(ci): grant actions: read to OSV-Scanner caller job](https://github.com/panda850819/last30days/pull/3) — `panda850819/last30days` <sub>merged · 2026-11-03</sub>
 - [ci: run merge-gate workflows on lab self-hosted runner](https://github.com/panda850819/gbrain/pull/56) — `panda850819/gbrain` <sub>merged · 2026-10-30</sub>
 - [ci(deploy): skip deploy on docs-only pushes](https://github.com/panda850819/pdzeng.com/pull/47) — `panda850819/pdzeng.com` <sub>merged · 2026-10-29</sub>
-- [fix(writing): repair truncated unicode escape in writing-sources.json](https://github.com/panda850819/pdzeng.com/pull/46) — `panda850819/pdzeng.com` <sub>merged · 2026-10-28</sub>
-- [fix(deps): bump @modelcontextprotocol/sdk 1.32.1 + zod ^4.6.6, tighten express-chain overrides](https://github.com/panda850819/gbrain/pull/55) — `panda850819/gbrain` <sub>merged · 2026-10-27</sub>
-- [feat(writing-sync): fetch X posts through xbird](https://github.com/panda850819/pdzeng.com/pull/45) — `panda850819/pdzeng.com` <sub>merged · 2026-10-26</sub>
-- [[tier1] fix(watchdog): write worker logs straight to fd 2 (bun 1.4 stderr forwarding)](https://github.com/panda850819/gbrain/pull/54) — `panda850819/gbrain` <sub>merged · 2026-10-25</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
