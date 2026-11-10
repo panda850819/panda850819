@@ -26,7 +26,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-11-08</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-11-10</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-10-21</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-10-21</sub>
 <!-- RECENT-REPOS:END -->
@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [pdzeng /writing：改成隨口說，只收 X＋Telegram 短貼](https://github.com/panda850819/pdzeng.com/pull/49) — `panda850819/pdzeng.com` <sub>open · 2026-11-10</sub>
+- [Migrate the 46 old blog posts and images](https://github.com/walkincat/walkincat.github.io/pull/3) — `walkincat/walkincat.github.io` <sub>merged · 2026-11-09</sub>
+- [Rebuild walkincat.org: static site skeleton, SEO and CI](https://github.com/walkincat/walkincat.github.io/pull/2) — `walkincat/walkincat.github.io` <sub>merged · 2026-11-09</sub>
+- [fix(seo): 404 canonical, sitemap home loc, 308 trailing-slash redirects](https://github.com/panda850819/pdzeng.com/pull/48) — `panda850819/pdzeng.com` <sub>merged · 2026-11-09</sub>
 - [Add 分級縮排 (tiered indent) rule for chat replies](https://github.com/panda850819/i-have-adhd-zh-tw/pull/9) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-11-06</sub>
 - [feat(skill): sync upstream list cap and add collab guide](https://github.com/panda850819/i-have-adhd-zh-tw/pull/8) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-11-03</sub>
-- [test(opencode-door): T4 keyless SMOKE blocked by free-tier quota — classify attempts, keep evidence](https://github.com/panda850819/gbrain/pull/58) — `panda850819/gbrain` <sub>merged · 2026-11-03</sub>
-- [fix(deps): bump lockfile deps to clear OSV-Scanner findings](https://github.com/panda850819/gbrain/pull/57) — `panda850819/gbrain` <sub>merged · 2026-11-03</sub>
-- [fix(ci): grant actions: read to OSV-Scanner caller job](https://github.com/panda850819/last30days/pull/3) — `panda850819/last30days` <sub>merged · 2026-11-03</sub>
-- [ci: run merge-gate workflows on lab self-hosted runner](https://github.com/panda850819/gbrain/pull/56) — `panda850819/gbrain` <sub>merged · 2026-10-30</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
