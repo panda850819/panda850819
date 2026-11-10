@@ -34,12 +34,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
-- [pdzeng /writing：改成隨口說，只收 X＋Telegram 短貼](https://github.com/panda850819/pdzeng.com/pull/49) — `panda850819/pdzeng.com` <sub>open · 2026-11-10</sub>
-- [Migrate the 46 old blog posts and images](https://github.com/walkincat/walkincat.github.io/pull/3) — `walkincat/walkincat.github.io` <sub>merged · 2026-11-09</sub>
-- [Rebuild walkincat.org: static site skeleton, SEO and CI](https://github.com/walkincat/walkincat.github.io/pull/2) — `walkincat/walkincat.github.io` <sub>merged · 2026-11-09</sub>
-- [fix(seo): 404 canonical, sitemap home loc, 308 trailing-slash redirects](https://github.com/panda850819/pdzeng.com/pull/48) — `panda850819/pdzeng.com` <sub>merged · 2026-11-09</sub>
-- [Add 分級縮排 (tiered indent) rule for chat replies](https://github.com/panda850819/i-have-adhd-zh-tw/pull/9) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-11-06</sub>
-- [feat(skill): sync upstream list cap and add collab guide](https://github.com/panda850819/i-have-adhd-zh-tw/pull/8) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-11-03</sub>
+- [fix(autopilot): check global maintenance on every tick, not only full-cycle ticks [tier 2]](https://github.com/panda850819/gbrain/pull/62) — `panda850819/gbrain` <sub>merged · 2026-11-10</sub>
+- [ci(heavy): mark hermes-door installer digest drift as known non-gating failure](https://github.com/panda850819/gbrain/pull/61) — `panda850819/gbrain` <sub>merged · 2026-11-10</sub>
+- [fix(persistence): route expired-page purge through the coordinator; fail maintenance jobs on failed phases](https://github.com/panda850819/gbrain/pull/60) — `panda850819/gbrain` <sub>merged · 2026-11-10</sub>
+- [walkincat：favicon 以貓頭實際外框置中，修 apple-touch-icon 右鬍鬚被切](https://github.com/walkincat/walkincat.github.io/pull/10) — `walkincat/walkincat.github.io` <sub>merged · 2026-11-10</sub>
+- [walkincat：QA「之後再修」L1–L5、P2＋首頁貓 IP-1／IP-2](https://github.com/walkincat/walkincat.github.io/pull/9) — `walkincat/walkincat.github.io` <sub>merged · 2026-11-10</sub>
+- [walkincat：risk_note 只從內文逐字摘錄（4 篇摘錄、44 篇留空）](https://github.com/walkincat/walkincat.github.io/pull/8) — `walkincat/walkincat.github.io` <sub>merged · 2026-11-10</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
