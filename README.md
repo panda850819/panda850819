@@ -6,8 +6,10 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 
 ## Selected work
 
-- **[Verbs](https://github.com/panda850819/verbs)** — Composable skills and guardrails for taking software work from discovery through debugging, review, and shipping. Available for Claude Code and Codex.
-- **[Murmur](https://github.com/panda850819/murmur)** — Voice-to-text for macOS and iOS. A personal dogfood project for learning the Apple stack and practicing a tightly scoped build, release, and retro loop.
+- **[i-have-adhd-zh-tw](https://github.com/panda850819/i-have-adhd-zh-tw)** — A skill for your coding agent to stop it from burying the answer: leads with the answer and keeps output ADHD-friendly, in Taiwanese Traditional Chinese.
+- **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun. Read, search, and publish posts from the terminal, with JSON output for scripts and agents.
+
+<sub>Retired: [Verbs](https://github.com/panda850819/verbs), [Murmur](https://github.com/panda850819/murmur)</sub>
 
 ## Latest writing
 
@@ -37,9 +39,6 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 - [docs: AGENTS.md Structure 清單收成 3 行](https://github.com/panda850819/last30days/pull/4) — `panda850819/last30days` <sub>merged · 2026-11-11</sub>
 - [chore: 把 Cloudflare 系 13 個 skill 收進專案 .claude/skills](https://github.com/panda850819/pdzeng.com/pull/52) — `panda850819/pdzeng.com` <sub>closed · 2026-11-11</sub>
 - [fix(search): update SearchTimeline query ID and retry on Internal server error](https://github.com/panda850819/xbird/pull/8) — `panda850819/xbird` <sub>closed · 2026-11-11</sub>
-- [fix(autopilot): check global maintenance on every tick, not only full-cycle ticks [tier 2]](https://github.com/panda850819/gbrain/pull/62) — `panda850819/gbrain` <sub>merged · 2026-11-10</sub>
-- [ci(heavy): mark hermes-door installer digest drift as known non-gating failure](https://github.com/panda850819/gbrain/pull/61) — `panda850819/gbrain` <sub>merged · 2026-11-10</sub>
-- [fix(persistence): route expired-page purge through the coordinator; fail maintenance jobs on failed phases](https://github.com/panda850819/gbrain/pull/60) — `panda850819/gbrain` <sub>merged · 2026-11-10</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
