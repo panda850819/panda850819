@@ -7,7 +7,6 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ## Selected work
 
 - **[i-have-adhd-zh-tw](https://github.com/panda850819/i-have-adhd-zh-tw)** — A skill for your coding agent to stop it from burying the answer: leads with the answer and keeps output ADHD-friendly, in Taiwanese Traditional Chinese.
-- **[product-management-skill](https://github.com/panda850819/product-management-skill)** — Product Manager expert skill for Claude Code, pairing classic methods like problem-first discovery and JTBD with AI-assisted PRD workflows.
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun. Read, search, and publish posts from the terminal, with JSON output for scripts and agents.
 
 <sub>Retired: [Verbs](https://github.com/panda850819/verbs), [Murmur](https://github.com/panda850819/murmur)</sub>
