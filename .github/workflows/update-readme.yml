@@ -23,6 +23,11 @@ jobs:
 
             const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
             const USER = 'panda850819';
+            const RETIRED_REPOS = new Set(['gbrain', 'verbs', 'murmur', 'murmur-voice']);
+            const isRetired = fullName => {
+              const [owner, name] = fullName.split('/');
+              return owner === USER && RETIRED_REPOS.has(name);
+            };
 
             const stripCdata = s => s.replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, '$1').trim();
             const decode = s => s
@@ -73,7 +78,7 @@ jobs:
               username: USER, sort: 'pushed', per_page: 30, type: 'owner',
             });
             const repoLines = repos
-              .filter(r => !r.fork && !r.private && !r.archived && r.name !== USER)
+              .filter(r => !r.fork && !r.private && !r.archived && r.name !== USER && !isRetired(r.full_name))
               .slice(0, 6)
               .map(r => {
                 const desc = r.description ? ` — ${r.description}` : '';
@@ -85,10 +90,11 @@ jobs:
             // ---------- 3. Recent public PRs ----------
             const { data: prs } = await github.rest.search.issuesAndPullRequests({
               q: `author:${USER} is:pr is:public`,
-              sort: 'created', order: 'desc', per_page: 10,
+              sort: 'created', order: 'desc', per_page: 30,
             });
-            const prLines = prs.items.slice(0, 6).map(p => {
-              const repo = p.repository_url.split('/').slice(-2).join('/');
+            const repoOf = p => p.repository_url.split('/').slice(-2).join('/');
+            const prLines = prs.items.filter(p => !isRetired(repoOf(p))).slice(0, 6).map(p => {
+              const repo = repoOf(p);
               const date = new Date(p.created_at).toISOString().slice(0, 10);
               const state = p.pull_request?.merged_at ? 'merged' : p.state;
               return `- [${p.title}](${p.html_url}) — \`${repo}\` <sub>${state} · ${date}</sub>`;
