@@ -28,7 +28,7 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recently active repos
 
 <!-- RECENT-REPOS:START -->
-- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-11-20</sub>
+- **[pdzeng.com](https://github.com/panda850819/pdzeng.com)** — Personal website with projects, writing, and a resume, built with Next.js. <sub>2026-11-21</sub>
 - **[curio](https://github.com/panda850819/curio)** — 拾跡 Curio — collect curiosities, trace your path <sub>2026-11-20</sub>
 - **[xbird](https://github.com/panda850819/xbird)** — Unofficial, script-friendly X CLI powered by Bun <sub>2026-11-20</sub>
 <!-- RECENT-REPOS:END -->
@@ -36,12 +36,12 @@ Based in Taipei, Taiwan. I focus on tools that help coding agents move from ambi
 ### Recent pull requests
 
 <!-- RECENT-PRS:START -->
+- [ci: lab 路徑改用釘版 Python 3.12.16 並加 guard](https://github.com/panda850819/i-have-adhd-zh-tw/pull/11) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-11-21</sub>
 - [ci: Pages build／deploy 改跑 panda-lab 隔離 runner](https://github.com/walkincat/walkincat.github.io/pull/11) — `walkincat/walkincat.github.io` <sub>merged · 2026-11-20</sub>
 - [ci: Bun 檢查、依賴稽核、OSV 改跑 panda-lab 隔離 runner](https://github.com/panda850819/last30days/pull/5) — `panda850819/last30days` <sub>merged · 2026-11-20</sub>
 - [ci: workflow 改跑 panda-lab 隔離 runner（fork PR 走 GitHub-hosted）](https://github.com/panda850819/i-have-adhd-zh-tw/pull/10) — `panda850819/i-have-adhd-zh-tw` <sub>merged · 2026-11-20</sub>
 - [ci: workflow 改跑 panda-lab 隔離 runner（fork PR 走 GitHub-hosted）](https://github.com/panda850819/pdzeng.com/pull/53) — `panda850819/pdzeng.com` <sub>merged · 2026-11-20</sub>
 - [ci: workflow 改跑 panda-lab 隔離 runner（fork PR 走 GitHub-hosted）](https://github.com/panda850819/panda850819/pull/6) — `panda850819/panda850819` <sub>merged · 2026-11-20</sub>
-- [ci: workflow 改跑 panda-lab 隔離 runner（fork PR 走 GitHub-hosted）](https://github.com/panda850819/curio/pull/76) — `panda850819/curio` <sub>merged · 2026-11-20</sub>
 <!-- RECENT-PRS:END -->
 
 ![GitHub contribution graph](https://ghchart.rshah.org/panda850819)
